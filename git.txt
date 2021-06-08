@@ -1,4 +1,5 @@
-  //create ssh key and clone external repository
+#create ssh key and clone external repository
+
   117  ssh-keygen -t rsa -c "colyambas"
   118  ssh-keygen -t rsa -C "colyambas"
   119  fish
@@ -39,7 +40,7 @@
   154  git commit  -m "first job with terminal"
   155  git push
 
-// create new branches
+# create new branches
   156  ls -la
   157  cat test1.txt
   158  git status
@@ -121,6 +122,10 @@
   234  vim git.txt
   235  cat git.txt
   236  nano git.txt
+
+# I forgot to add git.txt to main branch in time
+# wherefore main.git.txt matches with  terminal_git_commands.git.txt
+
   237  git checkout -b terminal_git_commands
   238  ls -al
   239  nano git.txt
@@ -149,3 +154,35 @@
   262  ls -al
   263  git status
   264  history
+# now create git.txt in main, add, commit in main and after merge 
+# with terminal_git_commands
+
+  260  cat git.txr
+  261  cat git.txt
+  262  ls -al
+  263  git status
+  264  history
+  265  nano git.txt
+  266  nano git.txt
+  267  cat git.txt
+  268  git status
+  269  git add git.txt
+  270  git status
+  271  cat git.txt
+  272  git commit -m "history of my work with the git"
+  273  git status
+  274  ls -la
+  275  git checkout terminal_git_commands
+  276  ls -la
+# fetch don't work
+  277  git fetch
+  278  ls -la
+  279  git fetch main
+  280  git status
+  281  git merge main
+  282  git status
+  283  ls -la
+  284  nano git.txt
+  285  git status
+  286  history
+# after I add and commit git.txt  

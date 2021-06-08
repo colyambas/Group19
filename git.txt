@@ -1,0 +1,151 @@
+  //create ssh key and clone external repository
+  117  ssh-keygen -t rsa -c "colyambas"
+  118  ssh-keygen -t rsa -C "colyambas"
+  119  fish
+  120  history
+  121  find .ssh
+  122  ls -la
+  123  find -depth -name ".ssh"
+  124  find -depth .ssh
+  125  find -depth ".ssh"
+  126  cd folder1
+  127  ls -la
+  128  ssh-keygen -t rsa -C "colyambas"
+  129  git config --global user.name "colyambas"
+  130  git config --global user.email
+  131  git config --global user.name
+  132  git config --global user.email "nikcolyamboss@gmail.com"
+  133  git config --global user.email
+  134  git config --global user.email
+  135  git clone git@github.com:colyambas/Group19.git
+  136  ls -al
+  137  cd Group19
+  138  ls -al
+  139  git status
+  140  git status
+  141  vim test1.txt
+  142  cat test1.txt
+  143  git status
+  144  git add test1.txt
+  145  git status
+  146  git commit  -m
+  147  git commit  -m "adds fit line"
+  148  cat test1.txt
+  149  git push
+  150  vim dz1.txt
+  151  git status
+  152  git add dz1.txt
+  153  git status
+  154  git commit  -m "first job with terminal"
+  155  git push
+
+// create new branches
+  156  ls -la
+  157  cat test1.txt
+  158  git status
+  159  git checkout -b "payment"
+  160  vim test1.txt
+  161  vim test1.txt
+  162  ps
+  163  ps -af
+  164  kill 825
+  165  ps -af
+  166  vim test1.txt
+  167  ps -af
+  168  vim test1.txt
+  169  vim test1.txt
+  170  nano test1.txt
+  171  vim test1.txt
+  172  nano test1.txt
+  173  cat test1.txt
+  174  git status
+  175  git restore test1.txt
+  176  cat test1.txt
+  177  vim test1.txt
+  178  nano test1.txt
+  179  git status
+  180  git add test1.txt
+  181  git status
+  182  git commit -m "add few lines"
+  183  git status
+  184  git checkout main
+  185  git status
+  186  git status
+  187  cat test1.txt
+  188  git checkout payment
+  189  cat test1.txt
+  190  git checkout main
+  191  cat test1.txt
+  192  git merge payment
+  193  cat test1.txt
+  194  git status
+  195  git checkout payment
+  196  git status
+  197  nano test1.txt
+  198  git add test1.txt
+  199  git commit -m "add 4 and 5 lines"
+  200  git status
+  201  git checkout -b "payment2"
+  202  git checkout payment2
+  203  nano test1.txt
+  204  git add test1.txt
+  205  git commit -m "add 6 line"
+  206  git checkout main
+  207  cat test1.txt
+  208  git checkout payment
+  209  cat test1.txt
+  210  git checkout payment2
+  211  cat test1.txt
+  212  history
+  213  kill 14152
+  214  ps -al
+  215  git status
+  216  cd Group19
+  217  git status
+  218  git status
+  219  open
+  220  open --help
+  221  o
+  222  op
+  223  git check out main
+  224  git checkout main
+  225  ls -al
+  226  rm .test.txt.swp
+  227  rm .test1.txt.swp
+  228  ls -al
+  229  cat dz1.txt
+  230  touch git.txt
+  231  history
+  232  nano git.txt
+  233  nano git.txt
+  234  vim git.txt
+  235  cat git.txt
+  236  nano git.txt
+  237  git checkout -b terminal_git_commands
+  238  ls -al
+  239  nano git.txt
+  240  history
+  241  nano git.txt
+  242  git commit -a -m "new branch? commit and merge"
+  243  git add git.txt
+  244  cat git.txt
+  245  git checkout main
+  246  ls -al
+  247  git add git.txt
+  248  git status
+  249  cat git.txt
+  250  git checkout terminal_git_commands
+  251  ls -al
+  252  git status
+  253  rm git.txt
+  254  git status
+  255  git rm git.txt
+  256  git status
+  257  ls -al
+  258  git checkout main
+  259  nano git.txt
+  260  cat git.txr
+  261  cat git.txt
+  262  ls -al
+  263  git status
+  264  history

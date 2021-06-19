@@ -128,7 +128,7 @@
 							"\r",
 							"//3.3) Достать значение из поля 'u_salary_1.5_year' и передать в поле salary запроса http://116.203.27.46:5002 (http://188.130.138.105:5001/new_data)/get_test_user\r",
 							"var Envir_u_sal_1_5 = myjsonData.person.u_salary_1_5_year;\r",
-							"pm.environment.set(Envir_u_sal_1_5, myjsonData.person.u_salary_1_5_year);\r",
+							"pm.environment.set(\"Envir_u_sal_1_5\", myjsonData.person.u_salary_1_5_year);\r",
 							"\r",
 							"\r",
 							""

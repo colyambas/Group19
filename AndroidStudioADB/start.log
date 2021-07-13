@@ -1,0 +1,391 @@
+--------- beginning of main
+07-13 23:34:53.336  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:53.338  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:53.340  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.340  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:53.341  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:53.341  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:53.342  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:53.342  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:53.343  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.348  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:53.521  1481  1492 I earchbox:searc: Background concurrent copying GC freed 191020(7954KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 19MB/38MB, paused 2.457ms total 191.637ms
+07-13 23:34:53.847  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:53.853  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:53.859  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.859  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:53.860  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:53.862  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:53.863  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:53.863  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:53.864  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:53.865  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.974  1195  5692 W .gms.persisten: JNI critical lock held for 22.629ms on Thread[26,tid=5692,Runnable,Thread*=0xb8106210,peer=0x13ac0000,"lowpool[14]"]
+07-13 23:34:54.366  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:54.373  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:54.377  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:54.377  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:54.377  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:54.378  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:54.378  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:54.378  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:54.379  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:54.381  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:54.882  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:54.886  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:54.888  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:54.889  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:54.889  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:54.889  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:54.889  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:54.889  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:54.890  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+--------- beginning of system
+07-13 23:34:55.193   507   556 W PackageManager: Not removing non-existent package com.android.todolist
+07-13 23:34:55.196  5725  5727 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+07-13 23:34:55.393  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:55.394  5054  5054 I abb     : StartCommandInProcess(73657474696e67730067657400656e61 settings.get.ena [truncated])
+07-13 23:34:55.395  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:55.397  5054  5136 I abb     : oneway function results will be dropped but finished with status OK and parcel size 4
+07-13 23:34:55.398  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.400  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:55.400  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:55.401  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:55.401  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:55.402  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:55.405  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.409  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:55.410  5054  5054 I abb     : StartCommandInProcess(7061636b61676500696e7374616c6c00 package.install. [truncated])
+07-13 23:34:55.392   507   507 W Binder:507_F: type=1400 audit(0.0:72): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.538   507   526 E JobScheduler.Background: App com.google.android.gms became active but still in NEVER bucket
+07-13 23:34:55.544   507   535 I DropBoxManagerService: add tag=system_server_wtf isTagEnabled=true flags=0x2
+07-13 23:34:55.563   507   620 W RuleEvaluation: Integrity rule files are not available.
+07-13 23:34:55.565   507   556 I PackageManager: Integrity check passed for file:///data/app/vmdl1146102781.tmp
+07-13 23:34:55.576   507   556 D CompatibilityChangeReporter: Compat change id reported: 135549675; UID 10156; state: DISABLED
+07-13 23:34:55.630   507   556 D PackageManager: Instant App installer not found with android.intent.action.INSTALL_INSTANT_APP_PACKAGE
+07-13 23:34:55.631   507   556 D PackageManager: Clear ephemeral installer activity
+07-13 23:34:55.644   507   556 V BackupManagerService: [UserID:0] restoreAtInstall pkg=com.android.todolist token=2 restoreSet=0
+07-13 23:34:55.645   507   556 V BackupManagerService: [UserID:0] Finishing install immediately
+07-13 23:34:55.647   507   556 I AppsFilter: interaction: PackageSetting{ba50afc com.example.myapplicationstandard/10153} -> PackageSetting{361b0af com.android.todolist/10156} BLOCKED
+07-13 23:34:55.392   507   507 I chatty  : uid=1000(system) Binder:507_3 identical 2 lines
+07-13 23:34:55.488   507   507 W Binder:507_F: type=1400 audit(0.0:75): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.658   401   401 E installd: Couldn't opendir /data/app/vmdl1146102781.tmp: No such file or directory
+07-13 23:34:55.658   401   401 E installd: Failed to delete /data/app/vmdl1146102781.tmp: No such file or directory
+07-13 23:34:55.663  5054  5136 I abb     : oneway function results will be dropped but finished with status OK and parcel size 4
+07-13 23:34:55.660   507   507 W Binder:507_F: type=1400 audit(0.0:76): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.660   507   507 W Binder:507_F: type=1400 audit(0.0:77): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.718  1442  1442 I MediaProvider: Invalidating LocalCallingIdentity cache for package com.android.todolist. Reason: package android.intent.action.PACKAGE_ADDED
+07-13 23:34:55.660   507   507 W Binder:507_F: type=1400 audit(0.0:78): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.755   694   694 V AvrcpMediaPlayerList: mPackageChangedBroadcastReceiver: action: android.intent.action.PACKAGE_ADDED
+07-13 23:34:55.755   694   694 D AvrcpMediaPlayerList: Name of package changed: com.android.todolist
+07-13 23:34:55.773  1461  1461 I GsaVoiceInteractionSrv: O received Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) }
+07-13 23:34:55.775   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+07-13 23:34:55.794   507   614 I InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS | 
+07-13 23:34:55.807   507   526 I RoleManagerService: Granting default roles...
+07-13 23:34:55.825   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+07-13 23:34:55.856   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+07-13 23:34:55.861  3905  3918 W d.process.acor: Reducing the number of considered missed Gc histogram windows from 148 to 100
+--------- beginning of kernel
+07-13 23:34:55.863     0     0 D logd    : logdr: UID=2000 GID=2000 PID=5735 n tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+07-13 23:34:55.902   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+07-13 23:34:55.904   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+07-13 23:34:55.906   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+07-13 23:34:55.906   507   527 W Looper  : Slow dispatch took 105ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=53
+07-13 23:34:55.907  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:55.909   507   535 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10075; state: DISABLED
+07-13 23:34:55.909  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:55.909   507   536 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10075; state: ENABLED
+07-13 23:34:55.932   507   507 W Looper  : Slow dispatch took 134ms main h=android.app.ActivityThread$H c=android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA@c9cd29b m=0
+07-13 23:34:55.934   507   507 I Telecom : DefaultDialerCache: Refreshing default dialer for user 0: now com.android.dialer: DDC.oR@AIU
+07-13 23:34:55.938  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.938  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:55.938  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:55.939  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:55.939  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:55.939  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:55.948  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.957   264   264 D Zygote  : Forked child process 5742
+07-13 23:34:55.963  5742  5742 W ackageinstalle: Unexpected CPU variant for X86 using defaults: x86
+07-13 23:34:55.968   507   536 W ActivityManager: Slow operation: 60ms so far, now at startProcess: returned from zygote!
+07-13 23:34:55.991   363   381 I adbd    : jdwp connection from 5742
+07-13 23:34:56.024   507   527 W Looper  : Slow dispatch took 110ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=53
+07-13 23:34:56.038   507   536 W ActivityManager: Slow operation: 130ms so far, now at startProcess: done updating battery stats
+07-13 23:34:56.038   507   536 W ActivityManager: Slow operation: 130ms so far, now at startProcess: building log message
+07-13 23:34:56.038   507   536 I ActivityManager: Start proc 5742:com.google.android.packageinstaller/u0a75 for broadcast {com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver}
+07-13 23:34:56.038   507   536 W ActivityManager: Slow operation: 130ms so far, now at startProcess: starting to update pids map
+07-13 23:34:56.043   507   536 W ActivityManager: Slow operation: 136ms so far, now at startProcess: done updating pids map
+07-13 23:34:56.044   507   507 V BackupManagerConstants: getFullBackupIntervalMilliseconds(...) returns 86400000
+07-13 23:34:56.044   507   507 V BackupManagerConstants: getFullBackupRequiredNetworkType(...) returns 2
+07-13 23:34:56.044   507   507 V BackupManagerConstants: getFullBackupRequireCharging(...) returns true
+07-13 23:34:56.054   507   526 W Looper  : Slow dispatch took 119ms android.fg h=android.os.Handler c=<recycled PooledLambda@5d8c081> m=0
+07-13 23:34:56.054   507   526 W Looper  : Slow delivery took 228ms android.fg h=com.android.server.AppStateTracker$MyHandler c=null m=12
+07-13 23:34:56.055   507   526 W Looper  : Drained
+07-13 23:34:56.055  1195  5766 W GCM     : Unexpected forwarded intent: Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) }
+07-13 23:34:56.087   507  1552 W ActivityManager: Unable to start service Intent { act=com.google.android.gms.auth.key.retrieval.service.START pkg=com.google.android.gms } U=0: not found
+07-13 23:34:56.130  1272  5763 I Auth    : [SupervisedAccountIntentOperation] onHandleIntent(): android.intent.action.PACKAGE_ADDED
+07-13 23:34:56.131  1272  5762 I ChromeSync: [Sync,SyncIntentOperation] Handling the intent: Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }.
+07-13 23:34:56.137  1195  5766 W GCM     : Unexpected forwarded intent: Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) }
+07-13 23:34:56.147  1272  5743 I FontsPackageChangeOp: Package com.android.todolist has no metadata
+07-13 23:34:56.169  5742  5742 I ackageinstalle: The ClassLoaderContext is a special shared library.
+07-13 23:34:56.274   507  1624 W system_server: Long monitor contention with owner Binder:507_F (1551) at com.android.server.pm.PackageSetting com.android.server.pm.PackageManagerService.getPackageSettingInternal(java.lang.String, int)(PackageManagerService.java:25221) waiters=1 in boolean com.android.server.pm.PackageManagerService$PackageManagerInternalImpl.isPermissionsReviewRequired(java.lang.String, int) for 121ms
+07-13 23:34:56.289   507  1777 W ActivityManager: Unbind failed: could not find connection for android.os.BinderProxy@a02a966
+07-13 23:34:56.289   507   522 W system_server: Long monitor contention with owner Binder:507_14 (1624) at android.content.ComponentName com.android.server.am.ActivityManagerService.startService(android.app.IApplicationThread, android.content.Intent, java.lang.String, boolean, java.lang.String, java.lang.String, int)(ActivityManagerService.java:15035) waiters=1 in void com.android.server.am.ActivityManagerService.publishService(android.os.IBinder, android.content.Intent, android.os.IBinder) for 123ms
+07-13 23:34:56.291  1272  1824 E GmsClient: unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+07-13 23:34:56.355   507   526 W Looper  : Slow dispatch took 295ms android.fg h=android.os.Handler c=<recycled PooledLambda@9c80232> m=0
+07-13 23:34:56.359   945   945 D CarrierSvcBindHelper: No carrier app for: 0
+07-13 23:34:56.377  5742  5742 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-13 23:34:56.413   507   526 W Looper  : Slow delivery took 296ms android.fg h=android.os.Handler c=<recycled PooledLambda@ddc1592> m=0
+07-13 23:34:56.379  5742  5742 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-13 23:34:56.442  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:56.446  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:56.489   945   965 I m.android.phon: Background young concurrent copying GC freed 27073(1876KB) AllocSpace objects, 0(0B) LOS objects, 23% free, 3871KB/5030KB, paused 867us total 262.702ms
+07-13 23:34:56.517   507  1625 W ActivityManager: Slow operation: 80ms so far, now at getContentProviderImpl: before checkContentProviderPermission
+07-13 23:34:56.517   507  1625 W ActivityManager: Slow operation: 80ms so far, now at getContentProviderImpl: after checkContentProviderPermission
+07-13 23:34:56.517   507  1625 W ActivityManager: Slow operation: 80ms so far, now at getContentProviderImpl: incProviderCountLocked
+07-13 23:34:56.517   507  1625 W ActivityManager: Slow operation: 81ms so far, now at getContentProviderImpl: before updateLruProcess
+07-13 23:34:56.518   507  1625 W ActivityManager: Slow operation: 81ms so far, now at getContentProviderImpl: after updateLruProcess
+07-13 23:34:56.518   507  1625 W ActivityManager: Slow operation: 81ms so far, now at getContentProviderImpl: before updateOomAdj
+07-13 23:34:56.518   507  1625 W ActivityManager: Slow operation: 81ms so far, now at getContentProviderImpl: after updateOomAdj
+07-13 23:34:56.518   507  1625 W ActivityManager: Slow operation: 81ms so far, now at getContentProviderImpl: done!
+07-13 23:34:56.521   507  1133 W system_server: Long monitor contention with owner NetworkPolicy.uid (636) at void com.android.server.net.NetworkPolicyManagerService.handleUidChanged(int, int, long)(NetworkPolicyManagerService.java:4789) waiters=0 in boolean com.android.server.net.NetworkPolicyManagerService$NetworkPolicyManagerInternalImpl.isUidNetworkingBlocked(int, java.lang.String) for 196ms
+07-13 23:34:56.526   507   507 W Looper  : Slow dispatch took 578ms main h=android.app.ActivityThread$H c=android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA@dcff2b3 m=0
+07-13 23:34:56.526   507   507 W Looper  : Slow delivery took 728ms main h=com.android.server.notification.NotificationManagerService$WorkerHandler c=com.android.server.notification.NotificationManagerService$15@6ef1070 m=0
+07-13 23:34:56.531   507  1480 W system_server: Long monitor contention with owner main (507) at void com.android.server.backup.UserBackupManagerService.scheduleNextFullBackupJob(long)(UserBackupManagerService.java:2212) waiters=0 in void com.android.server.backup.UserBackupManagerService$1.run() for 490ms
+07-13 23:34:56.531   507   529 D EventSequenceValidator: inc AccIntentStartedEvents to 2
+07-13 23:34:56.539   507  1772 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.android.todolist/.activity} from uid 2000
+07-13 23:34:56.540   507   529 D EventSequenceValidator: dec AccIntentStartedEvents to 1
+07-13 23:34:56.542  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:56.542  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:56.542  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:56.543  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:56.543  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:56.543  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:56.544  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:56.591   507   526 W Looper  : Slow dispatch took 178ms android.fg h=android.os.Handler c=<recycled PooledLambda@5d8c081> m=0
+07-13 23:34:56.612  1272  5762 I ChromeSync: [Persistence,AffiliationManager] One of affiliation or grouping data for android://7H10uuBFgo6s1LHruc6nSlUtqw_tBKAFRsY8v_jwrW3fIFlxvotl8X0colRgXLBxvRcSf4LHRaVHW1VTUj-KEA==@com.android.todolist/ was not found. Marking affiliation data as stale...
+07-13 23:34:56.645  1272  1272 W gle.android.gm: Long monitor contention with owner GoogleApiHandler (1824) at android.os.Message android.os.MessageQueue.next()(MessageQueue.java:364) waiters=0 in boolean android.os.MessageQueue.enqueueMessage(android.os.Message, long) for 259ms
+07-13 23:34:56.652   945   945 D CarrierConfigLoader: mHandler: 9 phoneId: 0
+07-13 23:34:56.692  5534  5553 I ProvidersCache: Provider returned no roots. Possibly naughty: com.google.android.apps.docs.storage
+07-13 23:34:56.701   945   965 I m.android.phon: Background concurrent copying GC freed 29530(2070KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 2489KB/4978KB, paused 865us total 186.588ms
+07-13 23:34:56.834   507   507 W Looper  : Slow dispatch took 283ms main h=com.android.server.job.JobSchedulerService$JobHandler c=null m=1
+07-13 23:34:56.870  3523  4394 I PermissionControllerServiceImpl: Updating user sensitive for uid 10156
+07-13 23:34:56.876  1272  5743 E ConfigFileUtils: Failed to read config file: /data/user_de/0/com.google.android.gms/app_chimera/next_container.pb: open failed: ENOENT (No such file or directory)
+07-13 23:34:56.909  1481  1717 I AppFlowTracker: AppFlow[Type: 249 - Status: 1 - Events[1667 at 0ms, 1040 at -152ms, 1039 at -152ms, 937 at -152ms, 918 at -152ms, 474 at -153ms, 417 at -153ms, 1040 at -154ms, 1039 at -154ms, 474 at -156ms, 417 at -156ms, 473 at -162ms, 399 at -162ms, 1040 at -748ms, 1039 at -749ms, 937 at -756ms, 918 at -756ms, 474 at -757ms, 417 at -757ms, 1040 at -758ms, 1039 at -758ms, 474 at -759ms, 417 at -759ms, 473 at -761ms, 399 at -761ms, 318 at -910ms, 1040 at -1294ms, 1039 at -1294ms, 937 at -1294ms, 918 at -1294ms, 474 at -1295ms, 417 at -1295ms, 1040 at -1299ms, 1039 at -1299ms, 474 at -1300ms, 417 at -1300ms, 473 at -1300ms, 399 at -1300ms, 1040 at -1806ms, 1039 at -1806ms, 937 at -1806ms, 918 at -1806ms, 474 at -1807ms, 417 at -1807ms, 1040 at -1808ms, 1039 at -1808ms, 474 at -1810ms, 417 at -1810ms, 473 at -1810ms, 399 at -1810ms, 1040 at -2315ms, 1039 at -2315ms, 937 at -2315ms, 918 at -2315ms, 474 at -2318ms, 417 at -2318ms, 1040 at -2319ms, 1039 at -2319ms, 474 at -2321ms, 417 at -2321ms, 473 at -2322ms, 399 at -2322ms, 1040 at -2831ms, 1039 at -2831ms, 937 at -2831ms, 918 at -2832ms, 474 at -2833ms, 417 at -2833ms, 1040 at -2838ms, 1039 at -2838ms, 474 at -2841ms, 417 at -2842ms, 473 at -2842ms, 399 at -2842ms, 1040 at -3353ms, 1039 at -3353ms, 937 at -3354ms, 918 at -3354ms, 474 at -3354ms, 417 at -3354ms, 1040 at -3356ms, 1039 at -3356ms, 474 at -3358ms, 417 at -3358ms, 473 at -3358ms, 399 at -3358ms, 1040 at -3862ms, 1039 at -3862ms, 937 at -3863ms, 918 at -3863ms, 474 at -3863ms, 417 at -3863ms, 1040 at -3865ms, 1039 at -3865ms, 474 at -3873ms, 417 at -3873ms, 473 at -3874ms, 399 at -3874ms, 1040 at -4380ms, 1039 at -4380ms, 937 at -4380ms, 918 at -4380ms, 474 at -4380ms, 417 at -4380ms, 1040 at -4382ms, 1039 at -4382ms, 474 at -4382ms, 417 at -4382ms, 473 at -4383ms, 399 at -4383ms, 1040 at -4886ms, 1039 at -4886ms, 937 at -4887ms, 918 at -4887ms, 474 at -4887ms, 417 at -4887ms, 1040 at -4889ms, 1039 at -4889ms, 474 at -4891ms, 417 at -4891ms, 473 at -4893ms, 399 at -4893ms, 1040 at -5399ms, 1039 at -5399ms, 937 at -5399ms, 918 at -5399ms, 474 at -5400ms, 417 at -5400ms, 1040 at -5401ms, 1039 at -5401ms, 474 at -5402ms, 417 at -5402ms, 473 at -5402ms, 399 at -5402ms, 1040 at -5906ms, 1039 at -5906ms, 937 at -5906ms, 918 at -5906ms, 474 at -5906ms, 417 at -5906ms, 1040 at -5908ms, 1039 at -5908ms, 474 at -5909ms, 417 at -5909ms, 473 at -5909ms, 399 at -5909ms, 1040 at -6413ms, 1039 at -6413ms, 937 at -6413ms, 918 at -6413ms, 474 at -6414ms, 417 at -6414ms, 1040 at -6415ms, 1039 at -6415ms, 474 at -6416ms, 417 at -6416ms, 473 at -6418ms, 399 at -6418ms, 1040 at -6921ms, 1039 at -6921ms, 937 at -6921ms, 918 at -6921ms, 474 at -6921ms, 417 at -6921ms, 1040 at -6923ms, 1039 at -6923ms, 474 at -6924ms, 417 at -6924ms, 473 at -6925ms, 399 at -6925ms, 1040 at -7435ms, 1039 at -7435ms, 937 at -7435ms, 918 at -7435ms, 474 at -7436ms, 417 at -7436ms, 1040 at -7438ms, 1039 at -7438ms, 474 at -7438ms, 417 at -7438ms, 473 at -7439ms, 399 at -7439ms, 1040 at -7942ms, 1039 at -7942ms, 937 at -7942ms, 918 at -7943ms, 474 at -7944ms, 417 at -7945ms, 1040 at -7950ms, 1039 at -7950ms, 474 at -7971ms, 417 at -7971ms, 473 at -7978ms, 399 at -7978ms, 1040 at -8507ms, 1039 at -8508ms, 937 at -8508ms, 918 at -8508ms, 474 at -8513ms, 417 at -8514ms, 1040 at -8515ms, 1039 at -8515ms, 474 at -8518ms, 417 at -8518ms, 473 at -8521ms, 399 at -8521ms, 1040 at -9031ms, 1039 at -9031ms, 937 at -9031ms, 918 at -9031ms, 474 at -9032ms, 417 at -9032ms, 1040 at -9034ms, 1039 at -9034ms, 474 at -9035ms, 417 at -9035ms, 473 at -9035ms, 399 at -9035ms, 1040 at -9541ms, 1039 at -9541ms, 937 at -9541ms, 918 at -9541ms, 474 at -9542ms, 417 at -9542ms, 1040 at -9543ms, 1039 at -9543ms, 474 at -9544ms, 417 at -9545ms, 473 at -9546ms, 399 at -9546ms, 1775 at -10003ms, ]]
+07-13 23:34:57.037  1272  5743 I ChmraDebugLogger: [73] 1801
+07-13 23:34:57.046  1272  5743 I ChmraDebugLogger: [30] [Pay.optional:201817020000] permitMetered=true,
+07-13 23:34:57.048  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:57.050  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:57.054  1272  5743 W ChimeraConfigService: Retry attempt was throttled.
+07-13 23:34:57.063  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:57.063  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:57.063  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:57.064  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:57.064  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:57.064  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:57.066  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:57.173  1272  2243 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=AppsCorpus serviceId=36 [CONTEXT service_id=21 ]
+07-13 23:34:57.204   507   517 I system_server: Background concurrent copying GC freed 277538(11MB) AllocSpace objects, 75(4736KB) LOS objects, 50% free, 17MB/34MB, paused 1.700ms total 1.553s
+07-13 23:34:57.263  1272  2918 W Icing   : No valid account for uploading user actions [CONTEXT service_id=21 ]
+07-13 23:34:57.376  1272  2918 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0 [CONTEXT service_id=21 ]
+07-13 23:34:57.435  1272  2918 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms using seqno 92 [CONTEXT service_id=21 ]
+07-13 23:34:57.442  1272  2243 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30 [CONTEXT service_id=21 ]
+07-13 23:34:57.477   507   526 W Looper  : Drained
+07-13 23:34:57.499  1272  2918 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+07-13 23:34:57.552   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+07-13 23:34:57.552   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+07-13 23:34:57.568  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:57.570  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:57.578  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:57.579   507   507 W Looper  : Drained
+07-13 23:34:57.579  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:57.579  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:57.583  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:57.583  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:57.588  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:57.591  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:57.592  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:57.677  1272  2918 W Icing   : No valid account for uploading user actions [CONTEXT service_id=21 ]
+07-13 23:34:57.693  1272  2918 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0 [CONTEXT service_id=21 ]
+07-13 23:34:57.696  1272  2918 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+07-13 23:34:58.094  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:58.095  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:58.099  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:58.099  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:58.099  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:58.099  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:58.099  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:58.099  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:58.099  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:58.101  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:58.604  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:58.606  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:58.611  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:58.612  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:58.612  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:58.612  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:58.612  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:58.613  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:58.613  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:59.115  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:59.117  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:59.121  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:59.122  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:59.122  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:59.122  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:59.122  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:59.122  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:59.123  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:59.123  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:59.625  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:59.627  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:59.630  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:59.631  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:59.631  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:59.631  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:59.631  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:59.632  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:59.632  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:59.633  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:00.009   712   712 D KeyguardClockSwitch: Updating clock: 2335
+07-13 23:35:00.134  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:00.136  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:00.138  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:00.138  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:00.138  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:00.139  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:00.139  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:00.139  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:00.139  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:00.141  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:00.641  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:00.643  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:00.648  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:00.648  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:00.649  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:00.649  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:00.649  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:00.649  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:00.649  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:00.650  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:01.153  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:01.154  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:01.156  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:01.156  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:01.156  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:01.157  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:01.157  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:01.157  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:01.157  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:01.157  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:01.660  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:01.663  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:01.667  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:01.667  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:01.668  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:01.668  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:01.668  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:01.668  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:01.668  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:01.669  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:02.171  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:02.173  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:02.175  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:02.176  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:02.176  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:02.176  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:02.176  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:02.176  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:02.177  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:02.177  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:02.683  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:02.689  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:02.692  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:02.692  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:02.692  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:02.693  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:02.693  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:02.693  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:02.693  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:02.694  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:03.195  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:03.197  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:03.199  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:03.201  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:03.201  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:03.201  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:03.201  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:03.202  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:03.202  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:03.202  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:03.705  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:03.707  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:03.709  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:03.709  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:03.709  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:03.709  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:03.709  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:03.710  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:03.710  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:03.712  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:04.213  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:04.214  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:04.216  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:04.216  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:04.216  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:04.217  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:04.217  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:04.217  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:04.217  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:04.217  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:04.720  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:04.723  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:04.727  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:04.727  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:04.728  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:04.728  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:04.728  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:04.728  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:04.729  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:04.729  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:05.232  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:05.233  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:05.235  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:05.235  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:05.235  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:05.236  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:05.236  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:05.236  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:05.236  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:05.236  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:05.738  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:05.741  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:05.744  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:05.744  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:05.745  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:05.746  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:05.746  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:05.746  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:05.746  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:05.747  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:06.248  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:06.249  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:06.251  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:06.251  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:06.251  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:06.251  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:06.251  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:06.252  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:06.252  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:06.253  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:06.693  1350  1408 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdownVoiceInternal():95 shutdownVoiceInternal()
+07-13 23:35:06.754  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:35:06.757  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:35:06.760  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:06.760  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:35:06.761  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:35:06.761  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:35:06.766  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:35:06.766  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:35:06.766  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:35:06.767  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:35:06.769     0     0 D logd    : logdr: UID=2000 GID=2000 PID=5790 n tail=0 logMask=99 pid=0 start=0ns timeout=0ns

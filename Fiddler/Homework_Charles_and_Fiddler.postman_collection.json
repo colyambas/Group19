@@ -1,0 +1,237 @@
+{
+	"info": {
+		"_postman_id": "fbc37b00-c7e9-4a53-87fe-ce3bc0014875",
+		"name": "Homework_Charles_and_Fiddler",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1_get_method",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "http://{{url_ksendzov_server}}/get_method?name=Nick&age=33",
+					"protocol": "http",
+					"host": [
+						"{{url_ksendzov_server}}"
+					],
+					"path": [
+						"get_method"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Nick"
+						},
+						{
+							"key": "age",
+							"value": "33"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2_user_info_3",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "Nick",
+							"type": "text"
+						},
+						{
+							"key": "age",
+							"value": "33",
+							"type": "text"
+						},
+						{
+							"key": "salary",
+							"value": "1000",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://{{url_ksendzov_server}}/user_info_3",
+					"protocol": "http",
+					"host": [
+						"{{url_ksendzov_server}}"
+					],
+					"path": [
+						"user_info_3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3_object_info_1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "http://{{url_ksendzov_server}}/object_info_1?name=Nick&age=33&weight=87",
+					"protocol": "http",
+					"host": [
+						"{{url_ksendzov_server}}"
+					],
+					"path": [
+						"object_info_1"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Nick"
+						},
+						{
+							"key": "age",
+							"value": "33"
+						},
+						{
+							"key": "weight",
+							"value": "87"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4_object_info_3",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "http://{{url_ksendzov_server}}/object_info_3?name=Nick&age=33&salary=1000",
+					"protocol": "http",
+					"host": [
+						"{{url_ksendzov_server}}"
+					],
+					"path": [
+						"object_info_3"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Nick"
+						},
+						{
+							"key": "age",
+							"value": "33"
+						},
+						{
+							"key": "salary",
+							"value": "1000"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5_object_info_4",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "http://{{url_ksendzov_server}}/object_info_4?name=Nick&age=33&salary=1000",
+					"protocol": "http",
+					"host": [
+						"{{url_ksendzov_server}}"
+					],
+					"path": [
+						"object_info_4"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Nick"
+						},
+						{
+							"key": "age",
+							"value": "33"
+						},
+						{
+							"key": "salary",
+							"value": "1000"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6_user_info_2",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "Nick",
+							"type": "text"
+						},
+						{
+							"key": "age",
+							"value": "33",
+							"type": "text"
+						},
+						{
+							"key": "salary",
+							"value": "1000",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://{{url_ksendzov_server}}/user_info_3",
+					"protocol": "http",
+					"host": [
+						"{{url_ksendzov_server}}"
+					],
+					"path": [
+						"user_info_3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

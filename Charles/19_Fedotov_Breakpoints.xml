@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<breakpoints>
+  <toolEnabled>true</toolEnabled>
+  <breakpoints>
+    <breakpoint>
+      <location>
+        <protocol>http</protocol>
+        <host>162.55.220.72</host>
+        <port>5005</port>
+        <path>/object_info_1</path>
+        <query>name=Nick&amp;age=33&amp;weight=87</query>
+      </location>
+      <request>false</request>
+      <response>true</response>
+      <enabled>true</enabled>
+    </breakpoint>
+    <breakpoint>
+      <location>
+        <protocol>http</protocol>
+        <host>162.55.220.72</host>
+        <port>5005</port>
+        <path>/object_info_4</path>
+        <query>name=Nick&amp;age=33&amp;salary=1000</query>
+      </location>
+      <scheme>GET</scheme>
+      <request>true</request>
+      <response>false</response>
+      <enabled>true</enabled>
+    </breakpoint>
+  </breakpoints>
+</breakpoints>

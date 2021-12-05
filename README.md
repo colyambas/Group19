@@ -1,2 +1,2 @@
-# Group19
+# Manual
 Course Vadim Ksendzov

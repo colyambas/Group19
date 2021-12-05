@@ -1,0 +1,28 @@
+--------- beginning of main
+--------- beginning of kernel
+--------- beginning of system
+07-09 03:00:21.286   507  1648 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[238,1176][439,1480]} from uid 10137
+07-09 03:00:21.701   507   545 D ArtManagerInternalImpl: /data/misc/iorapd/com.android.todolist/1/com.android.todolist.ListActivity/compiled_traces/compiled_trace.pb doesn't exist
+07-09 03:00:24.553  1314  1314 I AndroidIME: AbstractIme.onActivate():84 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable, IncognitoMode = false
+07-09 03:00:24.703  1314  1314 I ConversationToQueryExtension: ConversationToQueryExtension.isEnabledForHostApp():252 Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+07-09 03:02:00.485   507  1649 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10154
+07-09 03:02:00.919   507   545 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +424ms
+07-09 03:02:02.539   507  1649 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10154
+07-09 03:02:02.998   507   545 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +459ms
+07-09 03:02:04.560   507  1929 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@651543
+07-09 03:02:06.109   507  1929 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10154
+07-09 03:02:06.542   507   545 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +434ms
+07-09 03:02:09.732   507  1275 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.Info} from uid 10154
+07-09 03:02:10.186   507   545 I ActivityTaskManager: Displayed com.android.todolist/.Info: +452ms
+07-09 03:02:25.182   507   799 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10154
+07-09 03:02:25.672   507   545 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +485ms
+07-09 03:02:27.226   507  1648 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@13e7a70
+07-09 03:02:29.724   507   799 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10154
+07-09 03:02:30.071   507   545 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +346ms
+07-09 03:02:31.286   507   799 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10154
+07-09 03:02:31.656   507   545 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +366ms
+07-09 03:02:33.323   507   799 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@2eec863
+07-09 03:02:33.538   507  1275 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10154
+07-09 03:02:33.955   507   545 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +409ms
+07-09 03:11:25.009   507  1935 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@695b7f4
+07-09 03:11:29.752   507   799 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@83166f0

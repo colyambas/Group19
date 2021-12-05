@@ -1,0 +1,675 @@
+--------- beginning of main
+07-13 23:35:44.667  5795  5795 W Monkey  : Applications Memory Usage (in Kilobytes):
+07-13 23:35:44.668  5795  5795 W Monkey  : Uptime: 1790706 Realtime: 1790706
+07-13 23:35:44.668  5795  5795 W Monkey  : 
+07-13 23:35:44.668  5795  5795 W Monkey  : 
+07-13 23:35:44.668  5795  5795 W Monkey  : Total RSS by process:
+07-13 23:35:44.668  5795  5795 W Monkey  :     313,720K: system (pid 507)
+07-13 23:35:44.669  5795  5795 W Monkey  :     242,576K: com.google.android.googlequicksearchbox:search (pid 1481)
+07-13 23:35:44.669  5795  5795 W Monkey  :     232,592K: com.android.systemui (pid 712)
+07-13 23:35:44.669  5795  5795 W Monkey  :     201,264K: com.google.android.inputmethod.latin (pid 1350)
+07-13 23:35:44.669  5795  5795 W Monkey  :     191,580K: com.google.android.gms (pid 1272)
+07-13 23:35:44.669  5795  5795 W Monkey  :     185,048K: com.google.android.gms.persistent (pid 1195)
+07-13 23:35:44.670  5795  5795 W Monkey  :     163,508K: com.google.android.apps.maps (pid 5465)
+07-13 23:35:44.670  5795  5795 W Monkey  :     163,256K: com.google.android.apps.photos (pid 3043)
+07-13 23:35:44.670  5795  5795 W Monkey  :     158,064K: com.google.android.apps.nexuslauncher (pid 1055 / activities)
+07-13 23:35:44.670  5795  5795 W Monkey  :     153,844K: com.android.systemui:screenshot (pid 5265)
+07-13 23:35:44.670  5795  5795 W Monkey  :     150,236K: com.google.android.apps.docs (pid 5556)
+07-13 23:35:44.670  5795  5795 W Monkey  :     149,500K: com.android.todolist (pid 5813 / activities)
+07-13 23:35:44.670  5795  5795 W Monkey  :     143,212K: com.google.android.providers.media.module (pid 1442)
+07-13 23:35:44.670  5795  5795 W Monkey  :     132,476K: com.google.android.gms.ui (pid 5418)
+07-13 23:35:44.671  5795  5795 W Monkey  :     130,024K: com.google.android.googlequicksearchbox:interactor (pid 1461)
+07-13 23:35:44.671  5795  5795 W Monkey  :     129,440K: com.android.phone (pid 945)
+07-13 23:35:44.671  5795  5795 W Monkey  :     125,216K: com.google.android.ims (pid 2720)
+07-13 23:35:44.671  5795  5795 W Monkey  :     123,740K: com.google.android.apps.wellbeing (pid 5065)
+07-13 23:35:44.671  5795  5795 W Monkey  :     122,936K: com.android.bluetooth (pid 694)
+07-13 23:35:44.672  5795  5795 W Monkey  :     121,636K: zygote (pid 264)
+07-13 23:35:44.672  5795  5795 W Monkey  :     119,252K: com.google.android.projection.gearhead:shared (pid 4817)
+07-13 23:35:44.672  5795  5795 W Monkey  :     118,404K: com.android.networkstack.process (pid 873)
+07-13 23:35:44.672  5795  5795 W Monkey  :     108,204K: com.google.android.ext.services (pid 982)
+07-13 23:35:44.673  5795  5795 W Monkey  :     107,948K: android.process.media (pid 2300)
+07-13 23:35:44.673  5795  5795 W Monkey  :     103,716K: com.android.chrome (pid 5397)
+07-13 23:35:44.673  5795  5795 W Monkey  :     102,972K: com.google.process.gapps (pid 1935)
+07-13 23:35:44.673  5795  5795 W Monkey  :     102,952K: com.google.process.gservices (pid 1562)
+07-13 23:35:44.673  5795  5795 W Monkey  :     101,220K: com.google.android.permissioncontroller (pid 3523)
+07-13 23:35:44.674  5795  5795 W Monkey  :     100,280K: com.google.android.documentsui (pid 5534)
+07-13 23:35:44.674  5795  5795 W Monkey  :      99,276K: com.android.emulator.multidisplay (pid 1525)
+07-13 23:35:44.674  5795  5795 W Monkey  :      97,528K: com.android.commands.monkey (pid 5795)
+07-13 23:35:44.674  5795  5795 W Monkey  :      94,832K: com.android.dialer (pid 3848)
+07-13 23:35:44.674  5795  5795 W Monkey  :      94,808K: com.android.se (pid 909)
+07-13 23:35:44.674  5795  5795 W Monkey  :      94,392K: com.android.keychain (pid 5375)
+07-13 23:35:44.675  5795  5795 W Monkey  :      93,192K: com.android.ims.rcsservice (pid 1502)
+07-13 23:35:44.675  5795  5795 W Monkey  :      91,572K: com.google.android.configupdater (pid 5660)
+07-13 23:35:44.675  5795  5795 W Monkey  :      86,064K: com.google.android.packageinstaller (pid 5742)
+07-13 23:35:44.675  5795  5795 W Monkey  :      59,204K: webview_zygote (pid 824)
+07-13 23:35:44.675  5795  5795 W Monkey  :      18,684K: surfaceflinger (pid 344)
+07-13 23:35:44.675  5795  5795 W Monkey  :      15,400K: mediaserver (pid 413)
+07-13 23:35:44.676  5795  5795 W Monkey  :      14,020K: media.extractor (pid 408)
+07-13 23:35:44.676  5795  5795 W Monkey  :      13,424K: media.swcodec (pid 426)
+07-13 23:35:44.676  5795  5795 W Monkey  :      11,896K: android.hardware.graphics.composer@2.3-service (pid 286)
+07-13 23:35:44.676  5795  5795 W Monkey  :      11,176K: cameraserver (pid 395)
+07-13 23:35:44.676  5795  5795 W Monkey  :      11,140K: audioserver (pid 354)
+07-13 23:35:44.676  5795  5795 W Monkey  :       9,872K: logd (pid 148)
+07-13 23:35:44.677  5795  5795 W Monkey  :       9,840K: media.log (pid 337)
+07-13 23:35:44.677  5795  5795 W Monkey  :       7,932K: iorapd (pid 402)
+07-13 23:35:44.677  5795  5795 W Monkey  :       7,840K: netd (pid 263)
+07-13 23:35:44.677  5795  5795 W Monkey  :       7,584K: media.codec (pid 420)
+07-13 23:35:44.678  5795  5795 W Monkey  :       7,420K: keystore (pid 405)
+07-13 23:35:44.678  5795  5795 W Monkey  :       6,728K: traced_probes (pid 388)
+07-13 23:35:44.678  5795  5795 W Monkey  :       6,292K: android.hardware.graphics.allocator@3.0-service (pid 285)
+07-13 23:35:44.678  5795  5795 W Monkey  :       6,228K: android.hardware.camera.provider@2.4-service (pid 272)
+07-13 23:35:44.678  5795  5795 W Monkey  :       6,040K: drmserver (pid 396)
+07-13 23:35:44.683  5795  5795 W Monkey  :       5,908K: vold (pid 161)
+07-13 23:35:44.684  5795  5795 W Monkey  :       5,692K: installd (pid 401)
+07-13 23:35:44.684  5795  5795 W Monkey  :       5,688K: media.metrics (pid 410)
+07-13 23:35:44.684  5795  5795 W Monkey  :       5,680K: wificond (pid 417)
+07-13 23:35:44.684  5795  5795 W Monkey  :       5,480K: iorap.prefetcherd (pid 626)
+07-13 23:35:44.684  5795  5795 W Monkey  :       5,432K: gpuservice (pid 342)
+07-13 23:35:44.685  5795  5795 W Monkey  :       5,244K: android.hardware.neuralnetworks@1.3-service-sample-float-fast (pid 298)
+07-13 23:35:44.686  5795  5795 W Monkey  :       5,200K: hwservicemanager (pid 151)
+07-13 23:35:44.687  5795  5795 W Monkey  :       5,168K: wpa_supplicant (pid 692)
+07-13 23:35:44.688  5795  5795 W Monkey  :       5,164K: android.hardware.neuralnetworks@1.3-service-sample-float-slow (pid 302)
+07-13 23:35:44.689  5795  5795 W Monkey  :       5,152K: android.hardware.neuralnetworks@1.3-service-sample-all (pid 297)
+07-13 23:35:44.689  5795  5795 W Monkey  :       5,140K: android.hardware.neuralnetworks@1.3-service-sample-quant (pid 309)
+07-13 23:35:44.689  5795  5795 W Monkey  :       5,128K: android.hardware.neuralnetworks@1.3-service-sample-minimal (pid 308)
+07-13 23:35:44.690  5795  5795 W Monkey  :       5,084K: gatekeeperd (pid 427)
+07-13 23:35:44.690  5795  5795 W Monkey  :       5,048K: credstore (pid 339)
+07-13 23:35:44.690  5795  5795 W Monkey  :       5,044K: storaged (pid 415)
+07-13 23:35:44.690  5795  5795 W Monkey  :       4,804K: adbd (pid 363)
+07-13 23:35:44.691  5795  5795 W Monkey  :       4,640K: android.system.suspend@1.0-service (pid 184)
+07-13 23:35:44.691  5795  5795 W Monkey  :       4,628K: statsd (pid 262)
+07-13 23:35:44.691  5795  5795 W Monkey  :       4,552K: android.hardware.audio.service.ranchu (pid 269)
+07-13 23:35:44.692  5795  5795 W Monkey  :       4,536K: android.hardware.wifi@1.0-service (pid 319)
+07-13 23:35:44.692  5795  5795 W Monkey  :       4,520K: init (pid 1)
+07-13 23:35:44.692  5795  5795 W Monkey  :       4,372K: abb (pid 5054)
+07-13 23:35:44.693  5795  5795 W Monkey  :       4,268K: traced (pid 392)
+07-13 23:35:44.693  5795  5795 W Monkey  :       4,156K: servicemanager (pid 150)
+07-13 23:35:44.693  5795  5795 W Monkey  :       4,144K: android.hardware.keymaster@4.1-service (pid 169)
+07-13 23:35:44.694  5795  5795 W Monkey  :       4,032K: android.hardware.bluetooth@1.1-service.sim (pid 271)
+07-13 23:35:44.694  5795  5795 W Monkey  :       4,016K: incidentd (pid 398)
+07-13 23:35:44.694  5795  5795 W Monkey  :       4,008K: android.hardware.camera.provider@2.6-service-google (pid 273)
+07-13 23:35:44.694  5795  5795 W Monkey  :       3,984K: android.hardware.vibrator-service.example (pid 330)
+07-13 23:35:44.694  5795  5795 W Monkey  :       3,916K: android.hardware.gnss@2.0-service.ranchu (pid 855)
+07-13 23:35:44.694  5795  5795 W Monkey  :       3,848K: ueventd (pid 127)
+07-13 23:35:44.694  5795  5795 W Monkey  :       3,808K: dumpsys (pid 5939)
+07-13 23:35:44.695  5795  5795 W Monkey  :       3,800K: llkd (pid 468)
+07-13 23:35:44.695  5795  5795 W Monkey  :       3,792K: libgoldfish-rild (pid 422)
+07-13 23:35:44.696  5795  5795 W Monkey  :       3,776K: android.hardware.input.classifier@1.0-service.default (pid 617)
+07-13 23:35:44.696  5795  5795 W Monkey  :       3,736K: android.hardware.identity-service.example (pid 320)
+07-13 23:35:44.696  5795  5795 W Monkey  :       3,688K: android.hardware.health@2.1-service (pid 289)
+07-13 23:35:44.696  5795  5795 W Monkey  :       3,608K: android.hardware.power-service.example (pid 326)
+07-13 23:35:44.697  5795  5795 W Monkey  :       3,552K: android.hidl.allocator@1.0-service (pid 268)
+07-13 23:35:44.697  5795  5795 W Monkey  :       3,532K: android.hardware.rebootescrow-service.default (pid 329)
+07-13 23:35:44.697  5795  5795 W Monkey  :       3,504K: android.hardware.lights-service.example (pid 321)
+07-13 23:35:44.697  5795  5795 W Monkey  :       3,372K: hostapd_nohidl (pid 473)
+07-13 23:35:44.697  5795  5795 W Monkey  :       3,368K: android.hardware.sensors@2.1-service.multihal (pid 312)
+07-13 23:35:44.698  5795  5795 W Monkey  :       3,168K: android.hardware.contexthub@1.1-service.mock (pid 277)
+07-13 23:35:44.698  5795  5795 W Monkey  :       3,164K: android.hardware.usb@1.0-service (pid 317)
+07-13 23:35:44.698  5795  5795 W Monkey  :       3,148K: android.hardware.biometrics.fingerprint@2.1-service (pid 433)
+07-13 23:35:44.698  5795  5795 W Monkey  :       3,116K: android.hardware.gatekeeper@1.0-service.software (pid 282)
+07-13 23:35:44.699  5795  5795 W Monkey  :       3,108K: android.hardware.drm@1.3-service.widevine (pid 281)
+07-13 23:35:44.699  5795  5795 W Monkey  :       3,100K: android.hardware.drm@1.0-service (pid 279)
+07-13 23:35:44.699  5795  5795 W Monkey  :       3,096K: android.hardware.biometrics.face@1.0-service.example (pid 432)
+07-13 23:35:44.700  5795  5795 W Monkey  :       3,080K: android.hardware.authsecret@1.0-service (pid 270)
+07-13 23:35:44.700  5795  5795 W Monkey  :       3,060K: lmkd (pid 149)
+07-13 23:35:44.700  5795  5795 W Monkey  :       3,036K: android.hardware.power.stats@1.0-service.mock (pid 310)
+07-13 23:35:44.704  5795  5795 W Monkey  :       3,032K: android.hardware.cas@1.2-service (pid 274)
+07-13 23:35:44.704  5795  5795 W Monkey  :       3,032K: android.hardware.drm@1.3-service.clearkey (pid 280)
+07-13 23:35:44.704  5795  5795 W Monkey  :       3,028K: android.hardware.thermal@2.0-service.mock (pid 316)
+07-13 23:35:44.706  5795  5795 W Monkey  :       2,928K: iptables-restore (pid 275)
+07-13 23:35:44.707  5795  5795 W Monkey  :       2,924K: ip6tables-restore (pid 276)
+07-13 23:35:44.707  5795  5795 W Monkey  :       2,916K: logcat (pid 350)
+07-13 23:35:44.708  5795  5795 W Monkey  :       2,892K: netmgr (pid 440)
+07-13 23:35:44.708  5795  5795 W Monkey  :       2,876K: wifi_forwarder (pid 449)
+07-13 23:35:44.708  5795  5795 W Monkey  :       2,816K: tombstoned (pid 257)
+07-13 23:35:44.708  5795  5795 W Monkey  :       2,712K: dhcpclient (pid 476)
+07-13 23:35:44.709  5795  5795 W Monkey  :       2,692K: init (pid 125)
+07-13 23:35:44.710  5795  5795 W Monkey  :       2,520K: sh (pid 156)
+07-13 23:35:44.710  5795  5795 W Monkey  :       2,516K: createns (pid 252)
+07-13 23:35:44.710  5795  5795 W Monkey  :       2,368K: android.hardware.atrace@1.0-service (pid 185)
+07-13 23:35:44.710  5795  5795 W Monkey  :       2,352K: qemu-props (pid 158)
+07-13 23:35:44.710  5795  5795 W Monkey  :         420K: mdnsd (pid 384)
+07-13 23:35:44.711  5795  5795 W Monkey  : 
+07-13 23:35:44.711  5795  5795 W Monkey  : Total RSS by OOM adjustment:
+07-13 23:35:44.711  5795  5795 W Monkey  :     720,196K: Native
+07-13 23:35:44.711  5795  5795 W Monkey  :         121,636K: zygote (pid 264)
+07-13 23:35:44.712  5795  5795 W Monkey  :          97,528K: com.android.commands.monkey (pid 5795)
+07-13 23:35:44.712  5795  5795 W Monkey  :          59,204K: webview_zygote (pid 824)
+07-13 23:35:44.712  5795  5795 W Monkey  :          18,684K: surfaceflinger (pid 344)
+07-13 23:35:44.712  5795  5795 W Monkey  :          15,400K: mediaserver (pid 413)
+07-13 23:35:44.713  5795  5795 W Monkey  :          14,020K: media.extractor (pid 408)
+07-13 23:35:44.713  5795  5795 W Monkey  :          13,424K: media.swcodec (pid 426)
+07-13 23:35:44.713  5795  5795 W Monkey  :          11,896K: android.hardware.graphics.composer@2.3-service (pid 286)
+07-13 23:35:44.713  5795  5795 W Monkey  :          11,176K: cameraserver (pid 395)
+07-13 23:35:44.714  5795  5795 W Monkey  :          11,140K: audioserver (pid 354)
+07-13 23:35:44.714  5795  5795 W Monkey  :           9,872K: logd (pid 148)
+07-13 23:35:44.714  5795  5795 W Monkey  :           9,840K: media.log (pid 337)
+07-13 23:35:44.714  5795  5795 W Monkey  :           7,932K: iorapd (pid 402)
+07-13 23:35:44.714  5795  5795 W Monkey  :           7,840K: netd (pid 263)
+07-13 23:35:44.714  5795  5795 W Monkey  :           7,584K: media.codec (pid 420)
+07-13 23:35:44.714  5795  5795 W Monkey  :           7,420K: keystore (pid 405)
+07-13 23:35:44.716  5795  5795 W Monkey  :           6,728K: traced_probes (pid 388)
+07-13 23:35:44.716  5795  5795 W Monkey  :           6,292K: android.hardware.graphics.allocator@3.0-service (pid 285)
+07-13 23:35:44.716  5795  5795 W Monkey  :           6,228K: android.hardware.camera.provider@2.4-service (pid 272)
+07-13 23:35:44.717  5795  5795 W Monkey  :           6,040K: drmserver (pid 396)
+07-13 23:35:44.717  5795  5795 W Monkey  :           5,908K: vold (pid 161)
+07-13 23:35:44.717  5795  5795 W Monkey  :           5,692K: installd (pid 401)
+07-13 23:35:44.717  5795  5795 W Monkey  :           5,688K: media.metrics (pid 410)
+07-13 23:35:44.717  5795  5795 W Monkey  :           5,680K: wificond (pid 417)
+07-13 23:35:44.717  5795  5795 W Monkey  :           5,480K: iorap.prefetcherd (pid 626)
+07-13 23:35:44.718  5795  5795 W Monkey  :           5,432K: gpuservice (pid 342)
+07-13 23:35:44.718  5795  5795 W Monkey  :           5,244K: android.hardware.neuralnetworks@1.3-service-sample-float-fast (pid 298)
+07-13 23:35:44.719  5795  5795 W Monkey  :           5,200K: hwservicemanager (pid 151)
+07-13 23:35:44.719  5795  5795 W Monkey  :           5,168K: wpa_supplicant (pid 692)
+07-13 23:35:44.719  5795  5795 W Monkey  :           5,164K: android.hardware.neuralnetworks@1.3-service-sample-float-slow (pid 302)
+07-13 23:35:44.719  5795  5795 W Monkey  :           5,152K: android.hardware.neuralnetworks@1.3-service-sample-all (pid 297)
+07-13 23:35:44.719  5795  5795 W Monkey  :           5,140K: android.hardware.neuralnetworks@1.3-service-sample-quant (pid 309)
+07-13 23:35:44.719  5795  5795 W Monkey  :           5,128K: android.hardware.neuralnetworks@1.3-service-sample-minimal (pid 308)
+07-13 23:35:44.720  5795  5795 W Monkey  :           5,084K: gatekeeperd (pid 427)
+07-13 23:35:44.720  5795  5795 W Monkey  :           5,048K: credstore (pid 339)
+07-13 23:35:44.720  5795  5795 W Monkey  :           5,044K: storaged (pid 415)
+07-13 23:35:44.720  5795  5795 W Monkey  :           4,804K: adbd (pid 363)
+07-13 23:35:44.720  5795  5795 W Monkey  :           4,640K: android.system.suspend@1.0-service (pid 184)
+07-13 23:35:44.721  5795  5795 W Monkey  :           4,628K: statsd (pid 262)
+07-13 23:35:44.721  5795  5795 W Monkey  :           4,552K: android.hardware.audio.service.ranchu (pid 269)
+07-13 23:35:44.723  5795  5795 W Monkey  :           4,536K: android.hardware.wifi@1.0-service (pid 319)
+07-13 23:35:44.724  5795  5795 W Monkey  :           4,520K: init (pid 1)
+07-13 23:35:44.725  5795  5795 W Monkey  :           4,372K: abb (pid 5054)
+07-13 23:35:44.726  5795  5795 W Monkey  :           4,268K: traced (pid 392)
+07-13 23:35:44.726  5795  5795 W Monkey  :           4,156K: servicemanager (pid 150)
+07-13 23:35:44.727  5795  5795 W Monkey  :           4,144K: android.hardware.keymaster@4.1-service (pid 169)
+07-13 23:35:44.727  5795  5795 W Monkey  :           4,032K: android.hardware.bluetooth@1.1-service.sim (pid 271)
+07-13 23:35:44.728  5795  5795 W Monkey  :           4,016K: incidentd (pid 398)
+07-13 23:35:44.730  5795  5795 W Monkey  :           4,008K: android.hardware.camera.provider@2.6-service-google (pid 273)
+07-13 23:35:44.730  5795  5795 W Monkey  :           3,984K: android.hardware.vibrator-service.example (pid 330)
+07-13 23:35:44.731  5795  5795 W Monkey  :           3,916K: android.hardware.gnss@2.0-service.ranchu (pid 855)
+07-13 23:35:44.731  5795  5795 W Monkey  :           3,848K: ueventd (pid 127)
+07-13 23:35:44.731  5795  5795 W Monkey  :           3,808K: dumpsys (pid 5939)
+07-13 23:35:44.731  5795  5795 W Monkey  :           3,800K: llkd (pid 468)
+07-13 23:35:44.731  5795  5795 W Monkey  :           3,792K: libgoldfish-rild (pid 422)
+07-13 23:35:44.732  5795  5795 W Monkey  :           3,776K: android.hardware.input.classifier@1.0-service.default (pid 617)
+07-13 23:35:44.733  5795  5795 W Monkey  :           3,736K: android.hardware.identity-service.example (pid 320)
+07-13 23:35:44.734  5795  5795 W Monkey  :           3,688K: android.hardware.health@2.1-service (pid 289)
+07-13 23:35:44.736  5795  5795 W Monkey  :           3,608K: android.hardware.power-service.example (pid 326)
+07-13 23:35:44.736  5795  5795 W Monkey  :           3,552K: android.hidl.allocator@1.0-service (pid 268)
+07-13 23:35:44.737  5795  5795 W Monkey  :           3,532K: android.hardware.rebootescrow-service.default (pid 329)
+07-13 23:35:44.737  5795  5795 W Monkey  :           3,504K: android.hardware.lights-service.example (pid 321)
+07-13 23:35:44.737  5795  5795 W Monkey  :           3,372K: hostapd_nohidl (pid 473)
+07-13 23:35:44.737  5795  5795 W Monkey  :           3,368K: android.hardware.sensors@2.1-service.multihal (pid 312)
+07-13 23:35:44.737  5795  5795 W Monkey  :           3,168K: android.hardware.contexthub@1.1-service.mock (pid 277)
+07-13 23:35:44.737  5795  5795 W Monkey  :           3,164K: android.hardware.usb@1.0-service (pid 317)
+07-13 23:35:44.738  5795  5795 W Monkey  :           3,148K: android.hardware.biometrics.fingerprint@2.1-service (pid 433)
+07-13 23:35:44.738  5795  5795 W Monkey  :           3,116K: android.hardware.gatekeeper@1.0-service.software (pid 282)
+07-13 23:35:44.738  5795  5795 W Monkey  :           3,108K: android.hardware.drm@1.3-service.widevine (pid 281)
+07-13 23:35:44.738  5795  5795 W Monkey  :           3,100K: android.hardware.drm@1.0-service (pid 279)
+07-13 23:35:44.738  5795  5795 W Monkey  :           3,096K: android.hardware.biometrics.face@1.0-service.example (pid 432)
+07-13 23:35:44.738  5795  5795 W Monkey  :           3,080K: android.hardware.authsecret@1.0-service (pid 270)
+07-13 23:35:44.739  5795  5795 W Monkey  :           3,060K: lmkd (pid 149)
+07-13 23:35:44.740  5795  5795 W Monkey  :           3,036K: android.hardware.power.stats@1.0-service.mock (pid 310)
+07-13 23:35:44.740  5795  5795 W Monkey  :           3,032K: android.hardware.cas@1.2-service (pid 274)
+07-13 23:35:44.741  5795  5795 W Monkey  :           3,032K: android.hardware.drm@1.3-service.clearkey (pid 280)
+07-13 23:35:44.741  5795  5795 W Monkey  :           3,028K: android.hardware.thermal@2.0-service.mock (pid 316)
+07-13 23:35:44.741  5795  5795 W Monkey  :           2,928K: iptables-restore (pid 275)
+07-13 23:35:44.741  5795  5795 W Monkey  :           2,924K: ip6tables-restore (pid 276)
+07-13 23:35:44.741  5795  5795 W Monkey  :           2,916K: logcat (pid 350)
+07-13 23:35:44.742  5795  5795 W Monkey  :           2,892K: netmgr (pid 440)
+07-13 23:35:44.742  5795  5795 W Monkey  :           2,876K: wifi_forwarder (pid 449)
+07-13 23:35:44.742  5795  5795 W Monkey  :           2,816K: tombstoned (pid 257)
+07-13 23:35:44.742  5795  5795 W Monkey  :           2,712K: dhcpclient (pid 476)
+07-13 23:35:44.743  5795  5795 W Monkey  :           2,692K: init (pid 125)
+07-13 23:35:44.744  5795  5795 W Monkey  :           2,520K: sh (pid 156)
+07-13 23:35:44.744  5795  5795 W Monkey  :           2,516K: createns (pid 252)
+07-13 23:35:44.744  5795  5795 W Monkey  :           2,368K: android.hardware.atrace@1.0-service (pid 185)
+07-13 23:35:44.744  5795  5795 W Monkey  :           2,352K: qemu-props (pid 158)
+07-13 23:35:44.744  5795  5795 W Monkey  :             420K: mdnsd (pid 384)
+07-13 23:35:44.745  5795  5795 W Monkey  :     313,720K: System
+07-13 23:35:44.745  5795  5795 W Monkey  :         313,720K: system (pid 507)
+07-13 23:35:44.745  5795  5795 W Monkey  :     767,712K: Persistent
+07-13 23:35:44.745  5795  5795 W Monkey  :         232,592K: com.android.systemui (pid 712)
+07-13 23:35:44.745  5795  5795 W Monkey  :         129,440K: com.android.phone (pid 945)
+07-13 23:35:44.746  5795  5795 W Monkey  :         118,404K: com.android.networkstack.process (pid 873)
+07-13 23:35:44.746  5795  5795 W Monkey  :          99,276K: com.android.emulator.multidisplay (pid 1525)
+07-13 23:35:44.746  5795  5795 W Monkey  :          94,808K: com.android.se (pid 909)
+07-13 23:35:44.753  5795  5795 W Monkey  :          93,192K: com.android.ims.rcsservice (pid 1502)
+07-13 23:35:44.756  5795  5795 W Monkey  :     266,148K: Persistent Service
+07-13 23:35:44.758  5795  5795 W Monkey  :         143,212K: com.google.android.providers.media.module (pid 1442)
+07-13 23:35:44.761  5795  5795 W Monkey  :         122,936K: com.android.bluetooth (pid 694)
+07-13 23:35:44.761  5795  5795 W Monkey  :     149,500K: Foreground
+07-13 23:35:44.761  5795  5795 W Monkey  :         149,500K: com.android.todolist (pid 5813 / activities)
+07-13 23:35:44.763  5795  5795 W Monkey  :     735,184K: Visible
+07-13 23:35:44.763  5795  5795 W Monkey  :         185,048K: com.google.android.gms.persistent (pid 1195)
+07-13 23:35:44.764  5795  5795 W Monkey  :         158,064K: com.google.android.apps.nexuslauncher (pid 1055 / activities)
+07-13 23:35:44.764  5795  5795 W Monkey  :         153,844K: com.android.systemui:screenshot (pid 5265)
+07-13 23:35:44.764  5795  5795 W Monkey  :         130,024K: com.google.android.googlequicksearchbox:interactor (pid 1461)
+07-13 23:35:44.764  5795  5795 W Monkey  :         108,204K: com.google.android.ext.services (pid 982)
+07-13 23:35:44.764  5795  5795 W Monkey  :     201,264K: Perceptible
+07-13 23:35:44.765  5795  5795 W Monkey  :         201,264K: com.google.android.inputmethod.latin (pid 1350)
+07-13 23:35:44.765  5795  5795 W Monkey  :     316,796K: A Services
+07-13 23:35:44.767  5795  5795 W Monkey  :         191,580K: com.google.android.gms (pid 1272)
+07-13 23:35:44.767  5795  5795 W Monkey  :         125,216K: com.google.android.ims (pid 2720)
+07-13 23:35:44.768  5795  5795 W Monkey  :     102,952K: Previous
+07-13 23:35:44.768  5795  5795 W Monkey  :         102,952K: com.google.process.gservices (pid 1562)
+07-13 23:35:44.768  5795  5795 W Monkey  :   1,978,040K: Cached
+07-13 23:35:44.768  5795  5795 W Monkey  :         242,576K: com.google.android.googlequicksearchbox:search (pid 1481)
+07-13 23:35:44.769  5795  5795 W Monkey  :         163,508K: com.google.android.apps.maps (pid 5465)
+07-13 23:35:44.769  5795  5795 W Monkey  :         163,256K: com.google.android.apps.photos (pid 3043)
+07-13 23:35:44.769  5795  5795 W Monkey  :         150,236K: com.google.android.apps.docs (pid 5556)
+07-13 23:35:44.769  5795  5795 W Monkey  :         132,476K: com.google.android.gms.ui (pid 5418)
+07-13 23:35:44.770  5795  5795 W Monkey  :         123,740K: com.google.android.apps.wellbeing (pid 5065)
+07-13 23:35:44.770  5795  5795 W Monkey  :         119,252K: com.google.android.projection.gearhead:shared (pid 4817)
+07-13 23:35:44.770  5795  5795 W Monkey  :         107,948K: android.process.media (pid 2300)
+07-13 23:35:44.770  5795  5795 W Monkey  :         103,716K: com.android.chrome (pid 5397)
+07-13 23:35:44.770  5795  5795 W Monkey  :         102,972K: com.google.process.gapps (pid 1935)
+07-13 23:35:44.770  5795  5795 W Monkey  :         101,220K: com.google.android.permissioncontroller (pid 3523)
+07-13 23:35:44.772  5795  5795 W Monkey  :         100,280K: com.google.android.documentsui (pid 5534)
+07-13 23:35:44.773  5795  5795 W Monkey  :          94,832K: com.android.dialer (pid 3848)
+07-13 23:35:44.773  5795  5795 W Monkey  :          94,392K: com.android.keychain (pid 5375)
+07-13 23:35:44.773  5795  5795 W Monkey  :          91,572K: com.google.android.configupdater (pid 5660)
+07-13 23:35:44.774  5795  5795 W Monkey  :          86,064K: com.google.android.packageinstaller (pid 5742)
+07-13 23:35:44.774  5795  5795 W Monkey  : 
+07-13 23:35:44.774  5795  5795 W Monkey  : Total RSS by category:
+07-13 23:35:44.776  5795  5795 W Monkey  :   1,378,804K: .apk mmap
+07-13 23:35:44.777  5795  5795 W Monkey  :   1,363,784K: .so mmap
+07-13 23:35:44.777  5795  5795 W Monkey  :     812,812K: .jar mmap
+07-13 23:35:44.777  5795  5795 W Monkey  :     458,452K: .art mmap
+07-13 23:35:44.778  5795  5795 W Monkey  :     444,392K: .oat mmap
+07-13 23:35:44.778  5795  5795 W Monkey  :     424,560K: Native
+07-13 23:35:44.778  5795  5795 W Monkey  :     305,000K: Dalvik
+07-13 23:35:44.779  5795  5795 W Monkey  :     138,620K: Other mmap
+07-13 23:35:44.779  5795  5795 W Monkey  :      83,740K: Dalvik Other
+07-13 23:35:44.779  5795  5795 W Monkey  :      55,708K: .dex mmap
+07-13 23:35:44.780  5795  5795 W Monkey  :      30,384K: Unknown
+07-13 23:35:44.780  5795  5795 W Monkey  :      25,060K: Stack
+07-13 23:35:44.780  5795  5795 W Monkey  :      23,644K: Other dev
+07-13 23:35:44.780  5795  5795 W Monkey  :       5,104K: .ttf mmap
+07-13 23:35:44.781  5795  5795 W Monkey  :       1,448K: Ashmem
+07-13 23:35:44.781  5795  5795 W Monkey  :           0K: Cursor
+07-13 23:35:44.782  5795  5795 W Monkey  :           0K: Gfx dev
+07-13 23:35:44.782  5795  5795 W Monkey  :           0K: EGL mtrack
+07-13 23:35:44.782  5795  5795 W Monkey  :           0K: GL mtrack
+07-13 23:35:44.782  5795  5795 W Monkey  :           0K: Other mtrack
+07-13 23:35:44.782  5795  5795 W Monkey  : 
+07-13 23:35:44.782  5795  5795 W Monkey  : Total PSS by process:
+07-13 23:35:44.783  5795  5795 W Monkey  :     148,189K: system (pid 507)
+07-13 23:35:44.783  5795  5795 W Monkey  :     104,777K: com.google.android.googlequicksearchbox:search (pid 1481)
+07-13 23:35:44.783  5795  5795 W Monkey  :      80,996K: com.google.android.inputmethod.latin (pid 1350)
+07-13 23:35:44.783  5795  5795 W Monkey  :      77,745K: com.android.systemui (pid 712)
+07-13 23:35:44.783  5795  5795 W Monkey  :      58,397K: com.google.android.apps.photos (pid 3043)
+07-13 23:35:44.784  5795  5795 W Monkey  :      58,127K: com.google.android.apps.maps (pid 5465)
+07-13 23:35:44.784  5795  5795 W Monkey  :      54,820K: com.google.android.gms (pid 1272)
+07-13 23:35:44.784  5795  5795 W Monkey  :      48,331K: com.google.android.gms.persistent (pid 1195)
+07-13 23:35:44.784  5795  5795 W Monkey  :      45,211K: com.android.todolist (pid 5813 / activities)
+07-13 23:35:44.785  5795  5795 W Monkey  :      43,050K: com.google.android.apps.nexuslauncher (pid 1055 / activities)
+07-13 23:35:44.785  5795  5795 W Monkey  :      40,016K: com.google.android.providers.media.module (pid 1442)
+07-13 23:35:44.785  5795  5795 W Monkey  :      33,674K: com.google.android.apps.docs (pid 5556)
+07-13 23:35:44.785  5795  5795 W Monkey  :      33,516K: com.android.commands.monkey (pid 5795)
+07-13 23:35:44.786  5795  5795 W Monkey  :      29,910K: com.android.systemui:screenshot (pid 5265)
+07-13 23:35:44.786  5795  5795 W Monkey  :      24,395K: com.google.android.apps.wellbeing (pid 5065)
+07-13 23:35:44.786  5795  5795 W Monkey  :      21,130K: com.android.phone (pid 945)
+07-13 23:35:44.786  5795  5795 W Monkey  :      20,639K: com.google.android.projection.gearhead:shared (pid 4817)
+07-13 23:35:44.786  5795  5795 W Monkey  :      20,433K: com.google.android.googlequicksearchbox:interactor (pid 1461)
+07-13 23:35:44.787  5795  5795 W Monkey  :      20,382K: com.android.bluetooth (pid 694)
+07-13 23:35:44.787  5795  5795 W Monkey  :      18,512K: surfaceflinger (pid 344)
+07-13 23:35:44.787  5795  5795 W Monkey  :      18,453K: com.google.android.ims (pid 2720)
+07-13 23:35:44.787  5795  5795 W Monkey  :      15,969K: com.google.android.gms.ui (pid 5418)
+07-13 23:35:44.787  5795  5795 W Monkey  :      14,786K: android.hardware.graphics.composer@2.3-service (pid 286)
+07-13 23:35:44.791  5795  5795 W Monkey  :      14,172K: com.android.networkstack.process (pid 873)
+07-13 23:35:44.791  5795  5795 W Monkey  :      13,158K: com.android.chrome (pid 5397)
+07-13 23:35:44.792  5795  5795 W Monkey  :      11,870K: com.google.android.permissioncontroller (pid 3523)
+07-13 23:35:44.792  5795  5795 W Monkey  :      11,514K: android.process.media (pid 2300)
+07-13 23:35:44.793  5795  5795 W Monkey  :      10,820K: com.google.android.documentsui (pid 5534)
+07-13 23:35:44.793  5795  5795 W Monkey  :       8,869K: com.android.dialer (pid 3848)
+07-13 23:35:44.793  5795  5795 W Monkey  :       8,853K: com.google.android.configupdater (pid 5660)
+07-13 23:35:44.793  5795  5795 W Monkey  :       8,828K: com.google.android.ext.services (pid 982)
+07-13 23:35:44.794  5795  5795 W Monkey  :       8,668K: media.swcodec (pid 426)
+07-13 23:35:44.794  5795  5795 W Monkey  :       8,504K: com.android.ims.rcsservice (pid 1502)
+07-13 23:35:44.794  5795  5795 W Monkey  :       8,437K: com.android.se (pid 909)
+07-13 23:35:44.794  5795  5795 W Monkey  :       8,290K: com.android.emulator.multidisplay (pid 1525)
+07-13 23:35:44.794  5795  5795 W Monkey  :       8,058K: zygote (pid 264)
+07-13 23:35:44.795  5795  5795 W Monkey  :       7,902K: com.google.process.gservices (pid 1562)
+07-13 23:35:44.795  5795  5795 W Monkey  :       7,735K: logd (pid 148)
+07-13 23:35:44.798  5795  5795 W Monkey  :       7,246K: com.google.process.gapps (pid 1935)
+07-13 23:35:44.799  5795  5795 W Monkey  :       6,745K: com.google.android.packageinstaller (pid 5742)
+07-13 23:35:44.799  5795  5795 W Monkey  :       5,577K: com.android.keychain (pid 5375)
+07-13 23:35:44.799  5795  5795 W Monkey  :       5,431K: android.hardware.graphics.allocator@3.0-service (pid 285)
+07-13 23:35:44.800  5795  5795 W Monkey  :       4,903K: audioserver (pid 354)
+07-13 23:35:44.800  5795  5795 W Monkey  :       4,525K: media.extractor (pid 408)
+07-13 23:35:44.800  5795  5795 W Monkey  :       4,388K: webview_zygote (pid 824)
+07-13 23:35:44.800  5795  5795 W Monkey  :       4,107K: mediaserver (pid 413)
+07-13 23:35:44.800  5795  5795 W Monkey  :       3,789K: netd (pid 263)
+07-13 23:35:44.801  5795  5795 W Monkey  :       3,345K: cameraserver (pid 395)
+07-13 23:35:44.801  5795  5795 W Monkey  :       3,310K: init (pid 1)
+07-13 23:35:44.801  5795  5795 W Monkey  :       3,270K: media.codec (pid 420)
+07-13 23:35:44.802  5795  5795 W Monkey  :       3,179K: iorapd (pid 402)
+07-13 23:35:44.802  5795  5795 W Monkey  :       2,634K: keystore (pid 405)
+07-13 23:35:44.802  5795  5795 W Monkey  :       2,545K: adbd (pid 363)
+07-13 23:35:44.802  5795  5795 W Monkey  :       2,407K: android.hardware.keymaster@4.1-service (pid 169)
+07-13 23:35:44.802  5795  5795 W Monkey  :       2,299K: android.hardware.audio.service.ranchu (pid 269)
+07-13 23:35:44.803  5795  5795 W Monkey  :       2,269K: traced_probes (pid 388)
+07-13 23:35:44.803  5795  5795 W Monkey  :       2,254K: vold (pid 161)
+07-13 23:35:44.803  5795  5795 W Monkey  :       2,204K: ueventd (pid 127)
+07-13 23:35:44.804  5795  5795 W Monkey  :       2,202K: android.hardware.camera.provider@2.6-service-google (pid 273)
+07-13 23:35:44.805  5795  5795 W Monkey  :       2,094K: android.hardware.camera.provider@2.4-service (pid 272)
+07-13 23:35:44.805  5795  5795 W Monkey  :       2,080K: android.hardware.wifi@1.0-service (pid 319)
+07-13 23:35:44.807  5795  5795 W Monkey  :       2,018K: wpa_supplicant (pid 692)
+07-13 23:35:44.808  5795  5795 W Monkey  :       1,908K: iorap.prefetcherd (pid 626)
+07-13 23:35:44.808  5795  5795 W Monkey  :       1,805K: installd (pid 401)
+07-13 23:35:44.808  5795  5795 W Monkey  :       1,762K: media.log (pid 337)
+07-13 23:35:44.808  5795  5795 W Monkey  :       1,644K: media.metrics (pid 410)
+07-13 23:35:44.809  5795  5795 W Monkey  :       1,610K: libgoldfish-rild (pid 422)
+07-13 23:35:44.810  5795  5795 W Monkey  :       1,584K: statsd (pid 262)
+07-13 23:35:44.810  5795  5795 W Monkey  :       1,527K: android.hardware.bluetooth@1.1-service.sim (pid 271)
+07-13 23:35:44.810  5795  5795 W Monkey  :       1,506K: wificond (pid 417)
+07-13 23:35:44.810  5795  5795 W Monkey  :       1,458K: hwservicemanager (pid 151)
+07-13 23:35:44.810  5795  5795 W Monkey  :       1,401K: traced (pid 392)
+07-13 23:35:44.810  5795  5795 W Monkey  :       1,391K: init (pid 125)
+07-13 23:35:44.810  5795  5795 W Monkey  :       1,346K: drmserver (pid 396)
+07-13 23:35:44.811  5795  5795 W Monkey  :       1,316K: storaged (pid 415)
+07-13 23:35:44.811  5795  5795 W Monkey  :       1,265K: android.hardware.neuralnetworks@1.3-service-sample-all (pid 297)
+07-13 23:35:44.811  5795  5795 W Monkey  :       1,261K: android.hardware.neuralnetworks@1.3-service-sample-float-slow (pid 302)
+07-13 23:35:44.811  5795  5795 W Monkey  :       1,257K: android.hardware.neuralnetworks@1.3-service-sample-float-fast (pid 298)
+07-13 23:35:44.811  5795  5795 W Monkey  :       1,246K: android.hardware.neuralnetworks@1.3-service-sample-quant (pid 309)
+07-13 23:35:44.812  5795  5795 W Monkey  :       1,238K: android.hardware.neuralnetworks@1.3-service-sample-minimal (pid 308)
+07-13 23:35:44.813  5795  5795 W Monkey  :       1,204K: servicemanager (pid 150)
+07-13 23:35:44.813  5795  5795 W Monkey  :       1,167K: llkd (pid 468)
+07-13 23:35:44.813  5795  5795 W Monkey  :       1,162K: android.system.suspend@1.0-service (pid 184)
+07-13 23:35:44.813  5795  5795 W Monkey  :       1,139K: hostapd_nohidl (pid 473)
+07-13 23:35:44.814  5795  5795 W Monkey  :       1,123K: android.hardware.health@2.1-service (pid 289)
+07-13 23:35:44.814  5795  5795 W Monkey  :       1,115K: gpuservice (pid 342)
+07-13 23:35:44.814  5795  5795 W Monkey  :       1,071K: android.hardware.drm@1.3-service.widevine (pid 281)
+07-13 23:35:44.814  5795  5795 W Monkey  :       1,046K: android.hardware.drm@1.0-service (pid 279)
+07-13 23:35:44.814  5795  5795 W Monkey  :       1,034K: credstore (pid 339)
+07-13 23:35:44.815  5795  5795 W Monkey  :       1,027K: iptables-restore (pid 275)
+07-13 23:35:44.816  5795  5795 W Monkey  :       1,022K: android.hardware.sensors@2.1-service.multihal (pid 312)
+07-13 23:35:44.817  5795  5795 W Monkey  :       1,022K: ip6tables-restore (pid 276)
+07-13 23:35:44.817  5795  5795 W Monkey  :       1,000K: android.hardware.identity-service.example (pid 320)
+07-13 23:35:44.817  5795  5795 W Monkey  :         986K: gatekeeperd (pid 427)
+07-13 23:35:44.818  5795  5795 W Monkey  :         974K: sh (pid 156)
+07-13 23:35:44.819  5795  5795 W Monkey  :         963K: android.hardware.drm@1.3-service.clearkey (pid 280)
+07-13 23:35:44.819  5795  5795 W Monkey  :         887K: android.hardware.gnss@2.0-service.ranchu (pid 855)
+07-13 23:35:44.819  5795  5795 W Monkey  :         842K: android.hardware.cas@1.2-service (pid 274)
+07-13 23:35:44.819  5795  5795 W Monkey  :         831K: android.hardware.vibrator-service.example (pid 330)
+07-13 23:35:44.820  5795  5795 W Monkey  :         828K: android.hardware.atrace@1.0-service (pid 185)
+07-13 23:35:44.820  5795  5795 W Monkey  :         816K: incidentd (pid 398)
+07-13 23:35:44.820  5795  5795 W Monkey  :         771K: android.hardware.biometrics.fingerprint@2.1-service (pid 433)
+07-13 23:35:44.820  5795  5795 W Monkey  :         770K: abb (pid 5054)
+07-13 23:35:44.820  5795  5795 W Monkey  :         746K: android.hardware.gatekeeper@1.0-service.software (pid 282)
+07-13 23:35:44.820  5795  5795 W Monkey  :         743K: android.hardware.usb@1.0-service (pid 317)
+07-13 23:35:44.821  5795  5795 W Monkey  :         736K: android.hardware.input.classifier@1.0-service.default (pid 617)
+07-13 23:35:44.821  5795  5795 W Monkey  :         734K: logcat (pid 350)
+07-13 23:35:44.821  5795  5795 W Monkey  :         721K: android.hardware.thermal@2.0-service.mock (pid 316)
+07-13 23:35:44.822  5795  5795 W Monkey  :         718K: android.hardware.contexthub@1.1-service.mock (pid 277)
+07-13 23:35:44.822  5795  5795 W Monkey  :         708K: android.hardware.power.stats@1.0-service.mock (pid 310)
+07-13 23:35:44.822  5795  5795 W Monkey  :         703K: lmkd (pid 149)
+07-13 23:35:44.824  5795  5795 W Monkey  :         695K: android.hardware.biometrics.face@1.0-service.example (pid 432)
+07-13 23:35:44.824  5795  5795 W Monkey  :         690K: android.hardware.authsecret@1.0-service (pid 270)
+07-13 23:35:44.824  5795  5795 W Monkey  :         672K: android.hardware.rebootescrow-service.default (pid 329)
+07-13 23:35:44.824  5795  5795 W Monkey  :         666K: wifi_forwarder (pid 449)
+07-13 23:35:44.825  5795  5795 W Monkey  :         664K: android.hardware.lights-service.example (pid 321)
+07-13 23:35:44.825  5795  5795 W Monkey  :         660K: android.hardware.power-service.example (pid 326)
+07-13 23:35:44.825  5795  5795 W Monkey  :         654K: dumpsys (pid 5939)
+07-13 23:35:44.825  5795  5795 W Monkey  :         637K: android.hidl.allocator@1.0-service (pid 268)
+07-13 23:35:44.826  5795  5795 W Monkey  :         627K: qemu-props (pid 158)
+07-13 23:35:44.826  5795  5795 W Monkey  :         556K: tombstoned (pid 257)
+07-13 23:35:44.826  5795  5795 W Monkey  :         538K: netmgr (pid 440)
+07-13 23:35:44.826  5795  5795 W Monkey  :         532K: mdnsd (pid 384)
+07-13 23:35:44.826  5795  5795 W Monkey  :         509K: dhcpclient (pid 476)
+07-13 23:35:44.827  5795  5795 W Monkey  :         487K: createns (pid 252)
+07-13 23:35:44.827  5795  5795 W Monkey  : 
+07-13 23:35:44.827  5795  5795 W Monkey  : Total PSS by OOM adjustment:
+07-13 23:35:44.827  5795  5795 W Monkey  :     220,249K: Native
+07-13 23:35:44.827  5795  5795 W Monkey  :          33,516K: com.android.commands.monkey (pid 5795)
+07-13 23:35:44.828  5795  5795 W Monkey  :          18,512K: surfaceflinger (pid 344)
+07-13 23:35:44.828  5795  5795 W Monkey  :          14,786K: android.hardware.graphics.composer@2.3-service (pid 286)
+07-13 23:35:44.828  5795  5795 W Monkey  :           8,668K: media.swcodec (pid 426)
+07-13 23:35:44.828  5795  5795 W Monkey  :           8,058K: zygote (pid 264)
+07-13 23:35:44.829  5795  5795 W Monkey  :           7,735K: logd (pid 148)
+07-13 23:35:44.829  5795  5795 W Monkey  :           5,431K: android.hardware.graphics.allocator@3.0-service (pid 285)
+07-13 23:35:44.829  5795  5795 W Monkey  :           4,903K: audioserver (pid 354)
+07-13 23:35:44.830  5795  5795 W Monkey  :           4,525K: media.extractor (pid 408)
+07-13 23:35:44.830  5795  5795 W Monkey  :           4,388K: webview_zygote (pid 824)
+07-13 23:35:44.831  5795  5795 W Monkey  :           4,107K: mediaserver (pid 413)
+07-13 23:35:44.831  5795  5795 W Monkey  :           3,789K: netd (pid 263)
+07-13 23:35:44.832  5795  5795 W Monkey  :           3,345K: cameraserver (pid 395)
+07-13 23:35:44.832  5795  5795 W Monkey  :           3,310K: init (pid 1)
+07-13 23:35:44.833  5795  5795 W Monkey  :           3,270K: media.codec (pid 420)
+07-13 23:35:44.833  5795  5795 W Monkey  :           3,179K: iorapd (pid 402)
+07-13 23:35:44.833  5795  5795 W Monkey  :           2,634K: keystore (pid 405)
+07-13 23:35:44.833  5795  5795 W Monkey  :           2,545K: adbd (pid 363)
+07-13 23:35:44.834  5795  5795 W Monkey  :           2,407K: android.hardware.keymaster@4.1-service (pid 169)
+07-13 23:35:44.834  5795  5795 W Monkey  :           2,299K: android.hardware.audio.service.ranchu (pid 269)
+07-13 23:35:44.834  5795  5795 W Monkey  :           2,269K: traced_probes (pid 388)
+07-13 23:35:44.834  5795  5795 W Monkey  :           2,254K: vold (pid 161)
+07-13 23:35:44.834  5795  5795 W Monkey  :           2,204K: ueventd (pid 127)
+07-13 23:35:44.834  5795  5795 W Monkey  :           2,202K: android.hardware.camera.provider@2.6-service-google (pid 273)
+07-13 23:35:44.835  5795  5795 W Monkey  :           2,094K: android.hardware.camera.provider@2.4-service (pid 272)
+07-13 23:35:44.835  5795  5795 W Monkey  :           2,080K: android.hardware.wifi@1.0-service (pid 319)
+07-13 23:35:44.835  5795  5795 W Monkey  :           2,018K: wpa_supplicant (pid 692)
+07-13 23:35:44.835  5795  5795 W Monkey  :           1,908K: iorap.prefetcherd (pid 626)
+07-13 23:35:44.836  5795  5795 W Monkey  :           1,805K: installd (pid 401)
+07-13 23:35:44.836  5795  5795 W Monkey  :           1,762K: media.log (pid 337)
+07-13 23:35:44.836  5795  5795 W Monkey  :           1,644K: media.metrics (pid 410)
+07-13 23:35:44.836  5795  5795 W Monkey  :           1,610K: libgoldfish-rild (pid 422)
+07-13 23:35:44.836  5795  5795 W Monkey  :           1,584K: statsd (pid 262)
+07-13 23:35:44.837  5795  5795 W Monkey  :           1,527K: android.hardware.bluetooth@1.1-service.sim (pid 271)
+07-13 23:35:44.837  5795  5795 W Monkey  :           1,506K: wificond (pid 417)
+07-13 23:35:44.837  5795  5795 W Monkey  :           1,458K: hwservicemanager (pid 151)
+07-13 23:35:44.838  5795  5795 W Monkey  :           1,401K: traced (pid 392)
+07-13 23:35:44.842  5795  5795 W Monkey  :           1,391K: init (pid 125)
+07-13 23:35:44.842  5795  5795 W Monkey  :           1,346K: drmserver (pid 396)
+07-13 23:35:44.843  5795  5795 W Monkey  :           1,316K: storaged (pid 415)
+07-13 23:35:44.843  5795  5795 W Monkey  :           1,265K: android.hardware.neuralnetworks@1.3-service-sample-all (pid 297)
+07-13 23:35:44.843  5795  5795 W Monkey  :           1,261K: android.hardware.neuralnetworks@1.3-service-sample-float-slow (pid 302)
+07-13 23:35:44.846  5795  5795 W Monkey  :           1,257K: android.hardware.neuralnetworks@1.3-service-sample-float-fast (pid 298)
+07-13 23:35:44.849  5795  5795 W Monkey  :           1,246K: android.hardware.neuralnetworks@1.3-service-sample-quant (pid 309)
+07-13 23:35:44.849  5795  5795 W Monkey  :           1,238K: android.hardware.neuralnetworks@1.3-service-sample-minimal (pid 308)
+07-13 23:35:44.849  5795  5795 W Monkey  :           1,204K: servicemanager (pid 150)
+07-13 23:35:44.850  5795  5795 W Monkey  :           1,167K: llkd (pid 468)
+07-13 23:35:44.850  5795  5795 W Monkey  :           1,162K: android.system.suspend@1.0-service (pid 184)
+07-13 23:35:44.850  5795  5795 W Monkey  :           1,139K: hostapd_nohidl (pid 473)
+07-13 23:35:44.850  5795  5795 W Monkey  :           1,123K: android.hardware.health@2.1-service (pid 289)
+07-13 23:35:44.850  5795  5795 W Monkey  :           1,115K: gpuservice (pid 342)
+07-13 23:35:44.851  5795  5795 W Monkey  :           1,071K: android.hardware.drm@1.3-service.widevine (pid 281)
+07-13 23:35:44.851  5795  5795 W Monkey  :           1,046K: android.hardware.drm@1.0-service (pid 279)
+07-13 23:35:44.851  5795  5795 W Monkey  :           1,034K: credstore (pid 339)
+07-13 23:35:44.851  5795  5795 W Monkey  :           1,027K: iptables-restore (pid 275)
+07-13 23:35:44.853  5795  5795 W Monkey  :           1,022K: android.hardware.sensors@2.1-service.multihal (pid 312)
+07-13 23:35:44.853  5795  5795 W Monkey  :           1,022K: ip6tables-restore (pid 276)
+07-13 23:35:44.854  5795  5795 W Monkey  :           1,000K: android.hardware.identity-service.example (pid 320)
+07-13 23:35:44.854  5795  5795 W Monkey  :             986K: gatekeeperd (pid 427)
+07-13 23:35:44.854  5795  5795 W Monkey  :             974K: sh (pid 156)
+07-13 23:35:44.854  5795  5795 W Monkey  :             963K: android.hardware.drm@1.3-service.clearkey (pid 280)
+07-13 23:35:44.855  5795  5795 W Monkey  :             887K: android.hardware.gnss@2.0-service.ranchu (pid 855)
+07-13 23:35:44.855  5795  5795 W Monkey  :             842K: android.hardware.cas@1.2-service (pid 274)
+07-13 23:35:44.855  5795  5795 W Monkey  :             831K: android.hardware.vibrator-service.example (pid 330)
+07-13 23:35:44.855  5795  5795 W Monkey  :             828K: android.hardware.atrace@1.0-service (pid 185)
+07-13 23:35:44.855  5795  5795 W Monkey  :             816K: incidentd (pid 398)
+07-13 23:35:44.856  5795  5795 W Monkey  :             771K: android.hardware.biometrics.fingerprint@2.1-service (pid 433)
+07-13 23:35:44.856  5795  5795 W Monkey  :             770K: abb (pid 5054)
+07-13 23:35:44.856  5795  5795 W Monkey  :             746K: android.hardware.gatekeeper@1.0-service.software (pid 282)
+07-13 23:35:44.856  5795  5795 W Monkey  :             743K: android.hardware.usb@1.0-service (pid 317)
+07-13 23:35:44.856  5795  5795 W Monkey  :             736K: android.hardware.input.classifier@1.0-service.default (pid 617)
+07-13 23:35:44.856  5795  5795 W Monkey  :             734K: logcat (pid 350)
+07-13 23:35:44.857  5795  5795 W Monkey  :             721K: android.hardware.thermal@2.0-service.mock (pid 316)
+07-13 23:35:44.857  5795  5795 W Monkey  :             718K: android.hardware.contexthub@1.1-service.mock (pid 277)
+07-13 23:35:44.857  5795  5795 W Monkey  :             708K: android.hardware.power.stats@1.0-service.mock (pid 310)
+07-13 23:35:44.857  5795  5795 W Monkey  :             703K: lmkd (pid 149)
+07-13 23:35:44.858  5795  5795 W Monkey  :             695K: android.hardware.biometrics.face@1.0-service.example (pid 432)
+07-13 23:35:44.858  5795  5795 W Monkey  :             690K: android.hardware.authsecret@1.0-service (pid 270)
+07-13 23:35:44.858  5795  5795 W Monkey  :             672K: android.hardware.rebootescrow-service.default (pid 329)
+07-13 23:35:44.859  5795  5795 W Monkey  :             666K: wifi_forwarder (pid 449)
+07-13 23:35:44.859  5795  5795 W Monkey  :             664K: android.hardware.lights-service.example (pid 321)
+07-13 23:35:44.860  5795  5795 W Monkey  :             660K: android.hardware.power-service.example (pid 326)
+07-13 23:35:44.860  5795  5795 W Monkey  :             654K: dumpsys (pid 5939)
+07-13 23:35:44.860  5795  5795 W Monkey  :             637K: android.hidl.allocator@1.0-service (pid 268)
+07-13 23:35:44.860  5795  5795 W Monkey  :             627K: qemu-props (pid 158)
+07-13 23:35:44.860  5795  5795 W Monkey  :             556K: tombstoned (pid 257)
+07-13 23:35:44.861  5795  5795 W Monkey  :             538K: netmgr (pid 440)
+07-13 23:35:44.863  5795  5795 W Monkey  :             532K: mdnsd (pid 384)
+07-13 23:35:44.864  5795  5795 W Monkey  :             509K: dhcpclient (pid 476)
+07-13 23:35:44.864  5795  5795 W Monkey  :             487K: createns (pid 252)
+07-13 23:35:44.865  5795  5795 W Monkey  :     148,189K: System
+07-13 23:35:44.865  5795  5795 W Monkey  :         148,189K: system (pid 507)
+07-13 23:35:44.866  5795  5795 W Monkey  :     138,278K: Persistent
+07-13 23:35:44.866  5795  5795 W Monkey  :          77,745K: com.android.systemui (pid 712)
+07-13 23:35:44.867  5795  5795 W Monkey  :          21,130K: com.android.phone (pid 945)
+07-13 23:35:44.867  5795  5795 W Monkey  :          14,172K: com.android.networkstack.process (pid 873)
+07-13 23:35:44.868  5795  5795 W Monkey  :           8,504K: com.android.ims.rcsservice (pid 1502)
+07-13 23:35:44.868  5795  5795 W Monkey  :           8,437K: com.android.se (pid 909)
+07-13 23:35:44.868  5795  5795 W Monkey  :           8,290K: com.android.emulator.multidisplay (pid 1525)
+07-13 23:35:44.868  5795  5795 W Monkey  :      60,398K: Persistent Service
+07-13 23:35:44.869  5795  5795 W Monkey  :          40,016K: com.google.android.providers.media.module (pid 1442)
+07-13 23:35:44.869  5795  5795 W Monkey  :          20,382K: com.android.bluetooth (pid 694)
+07-13 23:35:44.869  5795  5795 W Monkey  :      45,211K: Foreground
+07-13 23:35:44.869  5795  5795 W Monkey  :          45,211K: com.android.todolist (pid 5813 / activities)
+07-13 23:35:44.869  5795  5795 W Monkey  :     150,552K: Visible
+07-13 23:35:44.870  5795  5795 W Monkey  :          48,331K: com.google.android.gms.persistent (pid 1195)
+07-13 23:35:44.870  5795  5795 W Monkey  :          43,050K: com.google.android.apps.nexuslauncher (pid 1055 / activities)
+07-13 23:35:44.870  5795  5795 W Monkey  :          29,910K: com.android.systemui:screenshot (pid 5265)
+07-13 23:35:44.870  5795  5795 W Monkey  :          20,433K: com.google.android.googlequicksearchbox:interactor (pid 1461)
+07-13 23:35:44.870  5795  5795 W Monkey  :           8,828K: com.google.android.ext.services (pid 982)
+07-13 23:35:44.871  5795  5795 W Monkey  :      80,996K: Perceptible
+07-13 23:35:44.871  5795  5795 W Monkey  :          80,996K: com.google.android.inputmethod.latin (pid 1350)
+07-13 23:35:44.871  5795  5795 W Monkey  :      73,273K: A Services
+07-13 23:35:44.871  5795  5795 W Monkey  :          54,820K: com.google.android.gms (pid 1272)
+07-13 23:35:44.871  5795  5795 W Monkey  :          18,453K: com.google.android.ims (pid 2720)
+07-13 23:35:44.872  5795  5795 W Monkey  :       7,902K: Previous
+07-13 23:35:44.872  5795  5795 W Monkey  :           7,902K: com.google.process.gservices (pid 1562)
+07-13 23:35:44.873  5795  5795 W Monkey  :     400,630K: Cached
+07-13 23:35:44.873  5795  5795 W Monkey  :         104,777K: com.google.android.googlequicksearchbox:search (pid 1481)
+07-13 23:35:44.873  5795  5795 W Monkey  :          58,397K: com.google.android.apps.photos (pid 3043)
+07-13 23:35:44.873  5795  5795 W Monkey  :          58,127K: com.google.android.apps.maps (pid 5465)
+07-13 23:35:44.873  5795  5795 W Monkey  :          33,674K: com.google.android.apps.docs (pid 5556)
+07-13 23:35:44.873  5795  5795 W Monkey  :          24,395K: com.google.android.apps.wellbeing (pid 5065)
+07-13 23:35:44.874  5795  5795 W Monkey  :          20,639K: com.google.android.projection.gearhead:shared (pid 4817)
+07-13 23:35:44.874  5795  5795 W Monkey  :          15,969K: com.google.android.gms.ui (pid 5418)
+07-13 23:35:44.874  5795  5795 W Monkey  :          13,158K: com.android.chrome (pid 5397)
+07-13 23:35:44.874  5795  5795 W Monkey  :          11,870K: com.google.android.permissioncontroller (pid 3523)
+07-13 23:35:44.874  5795  5795 W Monkey  :          11,514K: android.process.media (pid 2300)
+07-13 23:35:44.874  5795  5795 W Monkey  :          10,820K: com.google.android.documentsui (pid 5534)
+07-13 23:35:44.875  5795  5795 W Monkey  :           8,869K: com.android.dialer (pid 3848)
+07-13 23:35:44.875  5795  5795 W Monkey  :           8,853K: com.google.android.configupdater (pid 5660)
+07-13 23:35:44.875  5795  5795 W Monkey  :           7,246K: com.google.process.gapps (pid 1935)
+07-13 23:35:44.876  5795  5795 W Monkey  :           6,745K: com.google.android.packageinstaller (pid 5742)
+07-13 23:35:44.876  5795  5795 W Monkey  :           5,577K: com.android.keychain (pid 5375)
+07-13 23:35:44.876  5795  5795 W Monkey  : 
+07-13 23:35:44.876  5795  5795 W Monkey  : Total PSS by category:
+07-13 23:35:44.876  5795  5795 W Monkey  :     351,034K: .apk mmap
+07-13 23:35:44.877  5795  5795 W Monkey  :     343,823K: Native
+07-13 23:35:44.877  5795  5795 W Monkey  :     152,617K: Dalvik
+07-13 23:35:44.877  5795  5795 W Monkey  :      93,451K: .so mmap
+07-13 23:35:44.877  5795  5795 W Monkey  :      62,283K: .art mmap
+07-13 23:35:44.877  5795  5795 W Monkey  :      51,618K: .jar mmap
+07-13 23:35:44.878  5795  5795 W Monkey  :      49,662K: Dalvik Other
+07-13 23:35:44.878  5795  5795 W Monkey  :      46,363K: .dex mmap
+07-13 23:35:44.878  5795  5795 W Monkey  :      25,001K: Stack
+07-13 23:35:44.878  5795  5795 W Monkey  :      21,300K: Unknown
+07-13 23:35:44.878  5795  5795 W Monkey  :      20,418K: Other mmap
+07-13 23:35:44.879  5795  5795 W Monkey  :      16,055K: .oat mmap
+07-13 23:35:44.879  5795  5795 W Monkey  :       3,863K: .ttf mmap
+07-13 23:35:44.880  5795  5795 W Monkey  :       1,725K: Other dev
+07-13 23:35:44.880  5795  5795 W Monkey  :         468K: Ashmem
+07-13 23:35:44.880  5795  5795 W Monkey  :           0K: Cursor
+07-13 23:35:44.880  5795  5795 W Monkey  :           0K: Gfx dev
+07-13 23:35:44.881  5795  5795 W Monkey  :           0K: EGL mtrack
+07-13 23:35:44.882  5795  5795 W Monkey  :           0K: GL mtrack
+07-13 23:35:44.883  5795  5795 W Monkey  :           0K: Other mtrack
+07-13 23:35:44.884  5795  5795 W Monkey  : 
+07-13 23:35:44.884  5795  5795 W Monkey  : Total RAM: 2,028,660K (status normal)
+07-13 23:35:44.884  5795  5795 W Monkey  :  Free RAM:   971,946K (  400,630K cached pss +   510,408K cached kernel +    60,908K free)
+07-13 23:35:44.885  5795  5795 W Monkey  :  Used RAM: 1,095,192K (  925,048K used pss +   170,144K kernel)
+07-13 23:35:44.885  5795  5795 W Monkey  :  Lost RAM:    20,951K
+07-13 23:35:44.885  5795  5795 W Monkey  :      ZRAM:    26,568K physical used for    88,832K in swap (1,521,488K total swap)
+07-13 23:35:44.885  5795  5795 W Monkey  :    Tuning: 192 (large 512), oom   184,320K, restore limit    61,440K (high-end-gfx)
+07-13 23:35:44.885  5795  5795 W Monkey  : // meminfo status was 0
+07-13 23:35:44.885  5795  5795 I Monkey  : ** Monkey aborted due to error.
+07-13 23:35:44.886  5795  5795 I Monkey  : Events injected: 939
+07-13 23:35:44.887  5795  5795 I Monkey  : :Sending rotation degree=0, persist=false
+07-13 23:35:44.943  5795  5795 I Monkey  : :Dropped: keys=0 pointers=62 trackballs=0 flips=1 rotations=0
+07-13 23:35:44.944  5795  5795 I Monkey  : ## Network stats: elapsed time=37360ms (0ms mobile, 0ms wifi, 37360ms not connected)
+07-13 23:35:44.944  5795  5795 W Monkey  : ** System appears to have crashed at event 939 of 1000 using seed 1626376426351
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.945   507   527 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:44.980  5795  5795 I app_process: System.exit called, status: 939
+07-13 23:35:44.981  5795  5795 I AndroidRuntime: VM exiting with result code 939.
+--------- beginning of kernel
+07-13 23:35:45.052     0     0 D logd    : logdr: UID=2000 GID=2000 PID=5942 n tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+--------- beginning of system
+07-13 23:35:45.420   507   535 I ActivityManager: Force stopping com.android.todolist appid=10156 user=-1: deletePackageX
+07-13 23:35:45.421   507   535 I ActivityManager: Killing 5813:com.android.todolist/u0a156 (adj 0): stop com.android.todolist due to deletePackageX
+07-13 23:35:45.424   507   535 W ActivityTaskManager: Force removing ActivityRecord{dd05363 u0 com.android.todolist/.MainActivity t19 f}}: app died, no saved state
+07-13 23:35:45.459   507   535 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.459   507   535 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.459   507   535 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.459   507   535 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.459   507   535 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.459   507   535 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.460   507   535 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.461   507   535 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.461   507   535 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.461   507   535 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.481   264   264 I Zygote  : Process 5813 exited due to signal 9 (Killed)
+07-13 23:35:45.431     0     0 I binder  : undelivered transaction 397334, process died.
+07-13 23:35:45.492   507   535 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.492   507   535 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.492   507   535 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.492   507   535 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.492   507   535 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.493   507   535 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.493   507   535 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.493   507   535 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.493   507   535 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.493   507   535 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+07-13 23:35:45.511   507   537 I libprocessgroup: Successfully killed process cgroup uid 10156 pid 5813 in 56ms
+07-13 23:35:45.533   507   530 W system_server: Long monitor contention with owner ActivityManager (535) at void com.android.server.wm.ActivityTaskManagerService$LocalService.handleAppDied(com.android.server.wm.WindowProcessController, boolean, java.lang.Runnable)(ActivityTaskManagerService.java:6801) waiters=0 in void com.android.server.wm.InputMonitor$UpdateInputWindows.run() for 101ms
+07-13 23:35:45.676   507   527 W system_server: Long monitor contention with owner ActivityManager (535) at void com.android.server.am.ActivityManagerService$MainHandler.handleMessage(android.os.Message)(ActivityManagerService.java:1824) waiters=0 in void com.android.server.am.ActivityManagerService.dispatchUidsChanged() for 254ms
+07-13 23:35:45.734   507   599 W system_server: Long monitor contention with owner PackageManager (556) at void com.android.server.pm.PackageManagerService.removePackageDataLIF(com.android.server.pm.PackageSetting, int[], com.android.server.pm.PackageManagerService$PackageRemovedInfo, int, boolean)(PackageManagerService.java:18842) waiters=0 in android.content.pm.ApplicationInfo com.android.server.pm.PackageManagerService.getApplicationInfoInternal(java.lang.String, int, int, int) for 199ms
+07-13 23:35:45.778   285   328 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f4926000]
+07-13 23:35:45.823   507   527 W Looper  : Slow dispatch took 401ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=53
+07-13 23:35:45.823   507   527 W Looper  : Slow delivery took 400ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=32
+07-13 23:35:45.952   405   405 I keystore: clear_uid 10156
+07-13 23:35:45.965   507   556 D PackageManager: Instant App installer not found with android.intent.action.INSTALL_INSTANT_APP_PACKAGE
+07-13 23:35:45.965   507   556 D PackageManager: Clear ephemeral installer activity
+07-13 23:35:45.965   507   556 E PermissionMonitor: unknown permission type: -1for uid: 10156
+07-13 23:35:46.188   507   527 W Looper  : Drained
+07-13 23:35:46.189   507   530 W system_server: Long monitor contention with owner Binder:507_5 (623) at android.content.res.Configuration com.android.server.wm.ActivityTaskManagerService.getGlobalConfigurationForPid(int)(ActivityTaskManagerService.java:976) waiters=0 in void com.android.server.wm.InputMonitor$UpdateInputWindows.run() for 353ms
+07-13 23:35:46.212   285   328 D goldfish-address-space: claimShared: Ask to claim region [0x3f4926000 0x3f524c000]
+07-13 23:35:46.223   507   529 W system_server: Long monitor contention with owner Binder:507_5 (623) at android.content.res.Configuration com.android.server.wm.ActivityTaskManagerService.getGlobalConfigurationForPid(int)(ActivityTaskManagerService.java:976) waiters=1 in void com.android.server.wm.WindowManagerService$H.handleMessage(android.os.Message) for 386ms
+07-13 23:35:46.225   507   529 W ActivityManager: setHasOverlayUi called on unknown pid: 5813
+07-13 23:35:46.250  1481  5244 W GmsLocationProvider: Error removing location updates: 16
+07-13 23:35:46.318   285   325 D goldfish-address-space: claimShared: Ask to claim region [0x3f524c000 0x3f5b72000]
+07-13 23:35:46.349   285   328 D goldfish-address-space: claimShared: Ask to claim region [0x3f5b72000 0x3f6498000]
+07-13 23:35:46.388   285   285 D goldfish-address-space: claimShared: Ask to claim region [0x3f6498000 0x3f6dbe000]
+07-13 23:35:46.418   285   325 D goldfish-address-space: claimShared: Ask to claim region [0x3f6dbe000 0x3f76e4000]
+07-13 23:35:46.502  1481  2089 I OpenGLRenderer: Davey! duration=752ms; Flags=1, IntendedVsync=1794544009208, Vsync=1794594009206, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1794609294200, AnimationStart=1794609370100, PerformTraversalsStart=1794609428900, DrawStart=1795178403400, SyncQueued=1795179048300, SyncStart=1795245763300, IssueDrawCommandsStart=1795246133500, SwapBuffers=1795250365000, FrameCompleted=1795363377000, DequeueBufferDuration=626800, QueueBufferDuration=1775000, GpuCompleted=1678190476200, 
+07-13 23:35:46.579  1481  1481 W ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+07-13 23:35:46.614  1055  1578 I OpenGLRenderer: Davey! duration=1091ms; Flags=1, IntendedVsync=1794377343289, Vsync=1794610676613, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1794623877400, AnimationStart=1794623943300, PerformTraversalsStart=1794624006600, DrawStart=1795157387000, SyncQueued=1795159032700, SyncStart=1795165828800, IssueDrawCommandsStart=1795180487100, SwapBuffers=1795377040100, FrameCompleted=1795475404300, DequeueBufferDuration=5166500, QueueBufferDuration=34256600, GpuCompleted=839352278000, 
+07-13 23:35:46.682  1481  1710 W LocationOracle: No location history returned by ContextManager
+07-13 23:35:46.701   507   599 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+07-13 23:35:46.702   507   599 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+07-13 23:35:46.779   507   556 I system_server: Explicit concurrent copying GC freed 397482(15MB) AllocSpace objects, 43(4328KB) LOS objects, 49% free, 13MB/27MB, paused 885us total 530.009ms
+07-13 23:35:46.780   507   517 I system_server: WaitForGcToComplete blocked Background on ObjectsAllocated for 501.241ms
+07-13 23:35:46.781   507   518 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.android.server.AlarmManagerService$2
+07-13 23:35:46.781   507   518 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+07-13 23:35:46.800   507   556 I ActivityManager: Force stopping com.android.todolist appid=10156 user=0: pkg removed
+07-13 23:35:47.166   507   527 W Looper  : Slow dispatch took 304ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=31
+07-13 23:35:47.139     0     0 D logd    : logdr: UID=2000 GID=2000 PID=5953 n tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+07-13 23:35:47.178   507   527 W Looper  : Slow delivery took 292ms android.ui h=com.android.server.wm.BarController$BarHandler c=com.android.server.wm.-$$Lambda$StatusBarController$1$3FiQ0kybPCSlgcNJkCsNm5M12iA@ec37eb6 m=0
+07-13 23:35:47.180  1442  1442 I MediaProvider: Invalidating LocalCallingIdentity cache for package com.android.todolist. Reason: package android.intent.action.PACKAGE_REMOVED
+07-13 23:35:47.217   507   625 V StorageManagerService: Package com.android.todolist does not have legacy storage
+07-13 23:35:47.222  1055  1072 I s.nexuslaunche: Background concurrent copying GC freed 14166(711KB) AllocSpace objects, 3(192KB) LOS objects, 49% free, 3671KB/7342KB, paused 832us total 294.512ms
+07-13 23:35:47.227   694   694 V AvrcpMediaPlayerList: mPackageChangedBroadcastReceiver: action: android.intent.action.PACKAGE_REMOVED
+07-13 23:35:47.243   507   526 I RoleManagerService: Granting default roles...
+07-13 23:35:47.254  1461  1461 I GsaVoiceInteractionSrv: O received Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) }
+07-13 23:35:47.291   507   607 I RollbackManager: broadcast=ACTION_PACKAGE_FULLY_REMOVED pkg=com.android.todolist
+07-13 23:35:47.299   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.musicfx/.Compatibility$Receiver
+07-13 23:35:47.318  2720  2720 E CarrierServices: [2] ecr.a: Invalid signature found for com.android.contacts: E39B7BFBE0A67D78292F6CC62E06CA27A2EBF255
+07-13 23:35:47.333   507   507 W Looper  : Slow dispatch took 123ms main h=android.app.ActivityThread$H c=android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA@39122c0 m=0

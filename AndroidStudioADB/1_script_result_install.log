@@ -1,0 +1,147 @@
+--------- beginning of main
+07-13 23:34:52.311  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:52.313  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:52.314  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:52.315  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:52.315  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:52.315  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:52.315  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:52.316  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:52.316  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:52.317  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:52.749  1195  3596 I .gms.persisten: IncrementDisableThreadFlip blocked for 8.100ms
+07-13 23:34:52.798  1195  1207 I .gms.persisten: Background young concurrent copying GC freed 172304(7635KB) AllocSpace objects, 0(0B) LOS objects, 46% free, 8880KB/16MB, paused 6.035ms total 60.133ms
+07-13 23:34:52.817  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:52.821  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:52.831  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:52.831  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:52.831  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:52.832  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:52.832  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:52.833  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:52.833  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:52.834  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:52.954  1195  5692 W FlatFileLogStore: Excessive logging: 1024 events, 581502 bytes from log source ANDROID_GSA last 888s
+07-13 23:34:53.336  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:53.338  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:53.340  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.340  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:53.341  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:53.341  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:53.342  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:53.342  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:53.343  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.348  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:53.521  1481  1492 I earchbox:searc: Background concurrent copying GC freed 191020(7954KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 19MB/38MB, paused 2.457ms total 191.637ms
+07-13 23:34:53.847  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:53.853  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:53.859  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.859  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:53.860  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:53.862  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:53.863  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:53.863  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:53.864  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:53.865  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:53.974  1195  5692 W .gms.persisten: JNI critical lock held for 22.629ms on Thread[26,tid=5692,Runnable,Thread*=0xb8106210,peer=0x13ac0000,"lowpool[14]"]
+07-13 23:34:54.366  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:54.373  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:54.377  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:54.377  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:54.377  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:54.378  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:54.378  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:54.378  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:54.379  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:54.381  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:54.882  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:54.886  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:54.888  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:54.889  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:54.889  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:54.889  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:54.889  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:54.889  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:54.890  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+--------- beginning of system
+07-13 23:34:55.193   507   556 W PackageManager: Not removing non-existent package com.android.todolist
+07-13 23:34:55.196  5725  5727 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+07-13 23:34:55.393  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:55.394  5054  5054 I abb     : StartCommandInProcess(73657474696e67730067657400656e61 settings.get.ena [truncated])
+07-13 23:34:55.395  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:55.397  5054  5136 I abb     : oneway function results will be dropped but finished with status OK and parcel size 4
+07-13 23:34:55.398  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.400  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:55.400  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:55.401  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:55.401  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:55.402  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:55.405  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.409  1481  5244 E DeviceStateChecker: DeviceStateChecker cancelled
+07-13 23:34:55.410  5054  5054 I abb     : StartCommandInProcess(7061636b61676500696e7374616c6c00 package.install. [truncated])
+07-13 23:34:55.392   507   507 W Binder:507_F: type=1400 audit(0.0:72): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.538   507   526 E JobScheduler.Background: App com.google.android.gms became active but still in NEVER bucket
+07-13 23:34:55.544   507   535 I DropBoxManagerService: add tag=system_server_wtf isTagEnabled=true flags=0x2
+07-13 23:34:55.563   507   620 W RuleEvaluation: Integrity rule files are not available.
+07-13 23:34:55.565   507   556 I PackageManager: Integrity check passed for file:///data/app/vmdl1146102781.tmp
+07-13 23:34:55.576   507   556 D CompatibilityChangeReporter: Compat change id reported: 135549675; UID 10156; state: DISABLED
+07-13 23:34:55.630   507   556 D PackageManager: Instant App installer not found with android.intent.action.INSTALL_INSTANT_APP_PACKAGE
+07-13 23:34:55.631   507   556 D PackageManager: Clear ephemeral installer activity
+07-13 23:34:55.644   507   556 V BackupManagerService: [UserID:0] restoreAtInstall pkg=com.android.todolist token=2 restoreSet=0
+07-13 23:34:55.645   507   556 V BackupManagerService: [UserID:0] Finishing install immediately
+07-13 23:34:55.647   507   556 I AppsFilter: interaction: PackageSetting{ba50afc com.example.myapplicationstandard/10153} -> PackageSetting{361b0af com.android.todolist/10156} BLOCKED
+07-13 23:34:55.392   507   507 I chatty  : uid=1000(system) Binder:507_3 identical 2 lines
+07-13 23:34:55.488   507   507 W Binder:507_F: type=1400 audit(0.0:75): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.658   401   401 E installd: Couldn't opendir /data/app/vmdl1146102781.tmp: No such file or directory
+07-13 23:34:55.658   401   401 E installd: Failed to delete /data/app/vmdl1146102781.tmp: No such file or directory
+07-13 23:34:55.663  5054  5136 I abb     : oneway function results will be dropped but finished with status OK and parcel size 4
+07-13 23:34:55.660   507   507 W Binder:507_F: type=1400 audit(0.0:76): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.660   507   507 W Binder:507_F: type=1400 audit(0.0:77): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.718  1442  1442 I MediaProvider: Invalidating LocalCallingIdentity cache for package com.android.todolist. Reason: package android.intent.action.PACKAGE_ADDED
+07-13 23:34:55.660   507   507 W Binder:507_F: type=1400 audit(0.0:78): avc: denied { getopt } for scontext=u:r:system_server:s0 tcontext=u:r:shell:s0 tclass=unix_stream_socket permissive=0
+07-13 23:34:55.755   694   694 V AvrcpMediaPlayerList: mPackageChangedBroadcastReceiver: action: android.intent.action.PACKAGE_ADDED
+07-13 23:34:55.755   694   694 D AvrcpMediaPlayerList: Name of package changed: com.android.todolist
+07-13 23:34:55.773  1461  1461 I GsaVoiceInteractionSrv: O received Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) }
+07-13 23:34:55.775   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+07-13 23:34:55.794   507   614 I InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS | 
+07-13 23:34:55.807   507   526 I RoleManagerService: Granting default roles...
+07-13 23:34:55.825   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+07-13 23:34:55.856   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+07-13 23:34:55.861  3905  3918 W d.process.acor: Reducing the number of considered missed Gc histogram windows from 148 to 100
+--------- beginning of kernel
+07-13 23:34:55.863     0     0 D logd    : logdr: UID=2000 GID=2000 PID=5735 n tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+07-13 23:34:55.902   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+07-13 23:34:55.904   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+07-13 23:34:55.906   507   535 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+07-13 23:34:55.906   507   527 W Looper  : Slow dispatch took 105ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=53
+07-13 23:34:55.907  1481  1736 I MicroDetectionState: Should stop hotword detection immediately - false
+07-13 23:34:55.909   507   535 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10075; state: DISABLED
+07-13 23:34:55.909  1481  1736 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+07-13 23:34:55.909   507   536 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10075; state: ENABLED
+07-13 23:34:55.932   507   507 W Looper  : Slow dispatch took 134ms main h=android.app.ActivityThread$H c=android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA@c9cd29b m=0
+07-13 23:34:55.934   507   507 I Telecom : DefaultDialerCache: Refreshing default dialer for user 0: now com.android.dialer: DDC.oR@AIU
+07-13 23:34:55.938  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.938  1481  1736 I HotwordLSAdapter: getAudioSourceOpeningStatus completed: 102
+07-13 23:34:55.938  1481  1736 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+07-13 23:34:55.939  1481  1736 I MicroDetector: Keeping mic open: false
+07-13 23:34:55.939  1481  1736 I MicroDetector: #shutdownAudioWithAudioLibrary
+07-13 23:34:55.939  1481  1736 I MicroDetectionWorker: #onError(false)
+07-13 23:34:55.948  1481  1736 I HotwordLSAdapter: stopListeningStatus result: 109
+07-13 23:34:55.957   264   264 D Zygote  : Forked child process 5742
+07-13 23:34:55.963  5742  5742 W ackageinstalle: Unexpected CPU variant for X86 using defaults: x86
+07-13 23:34:55.968   507   536 W ActivityManager: Slow operation: 60ms so far, now at startProcess: returned from zygote!
+07-13 23:34:55.991   363   381 I adbd    : jdwp connection from 5742
+07-13 23:34:56.024   507   527 W Looper  : Slow dispatch took 110ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=53
+07-13 23:34:56.038   507   536 W ActivityManager: Slow operation: 130ms so far, now at startProcess: done updating battery stats
+07-13 23:34:56.038   507   536 W ActivityManager: Slow operation: 130ms so far, now at startProcess: building log message
+07-13 23:34:56.038   507   536 I ActivityManager: Start proc 5742:com.google.android.packageinstaller/u0a75 for broadcast {com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver}
+07-13 23:34:56.038   507   536 W ActivityManager: Slow operation: 130ms so far, now at startProcess: starting to update pids map
+07-13 23:34:56.043   507   536 W ActivityManager: Slow operation: 136ms so far, now at startProcess: done updating pids map
+07-13 23:34:56.044   507   507 V BackupManagerConstants: getFullBackupIntervalMilliseconds(...) returns 86400000
+07-13 23:34:56.044   507   507 V BackupManagerConstants: getFullBackupRequiredNetworkType(...) returns 2
+07-13 23:34:56.044   507   507 V BackupManagerConstants: getFullBackupRequireCharging(...) returns true
+07-13 23:34:56.054   507   526 W Looper  : Slow dispatch took 119ms android.fg h=android.os.Handler c=<recycled PooledLambda@5d8c081> m=0
+07-13 23:34:56.054   507   526 W Looper  : Slow delivery took 228ms android.fg h=com.android.server.AppStateTracker$MyHandler c=null m=12
+07-13 23:34:56.055   507   526 W Looper  : Drained
+07-13 23:34:56.055  1195  5766 W GCM     : Unexpected forwarded intent: Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) }
+07-13 23:34:56.087   507  1552 W ActivityManager: Unable to start service Intent { act=com.google.android.gms.auth.key.retrieval.service.START pkg=com.google.android.gms } U=0: not found

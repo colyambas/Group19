@@ -1,0 +1,83 @@
+#!/bin/bash
+
+#-------------------------------------------------------------------------------
+
+# Пример BASH скрипта для автоматического тестирования приложения c помощью ADB
+
+#
+
+# Скрипт:
+
+# 1. Устанавливает приложение
+
+# 2. Запускает приложение
+
+# 3. Тестирует приложение с помощью monkey
+
+# 4. Удаляет приложение
+
+#
+
+# На каждом шаге собираются и сохраняются log-файлы.
+
+#-------------------------------------------------------------------------------
+
+
+
+APK="todolist.apk"
+
+PACKAGE="com.android.todolist"
+
+ACTIVITY="com.android.todolist.activity"
+
+
+
+#rm -rf log_todolist
+
+mkdir log_todolist
+
+
+
+# 1. Устанавливаем приложение
+
+adb uninstall $PACKAGE # удаляем приложение
+
+adb logcat -c # очищаем буфер логов
+
+adb install $APK # устанавливаем приложение
+
+adb logcat -d > log_todolist/install.log # записываем логи установки приложения
+
+
+
+# 2. Запускаем приложение
+
+adb logcat -c
+
+adb shell am start -n $PACKAGE/$ACTIVITY # запускаем приложение
+
+sleep 10 # ожидаем 10 сек чтобы приложение полностью загрузилось
+
+adb logcat -d > log_todolist/start.log
+
+
+
+# 3. Тестируем приложение
+
+adb logcat -c
+
+# тестируем приложение с помощью monkey
+
+adb shell monkey --pct-touch 70 -p $PACKAGE -v 1000 --throttle 500
+
+adb logcat -d > log_todolist/test.log
+
+
+
+# 4. Удаляем приложение
+
+adb logcat -c
+
+adb uninstall $PACKAGE
+
+adb logcat -d > log_todolist/uninstall.log
